@@ -1,3 +1,3 @@
 # Onchocerciasis Prevalence in Cameroon
 
-[Here]<https://juluis-foyet.shinyapps.io/Oncho/>
+Click on the following link to view the app: <https://juluis-foyet.shinyapps.io/Oncho/>
