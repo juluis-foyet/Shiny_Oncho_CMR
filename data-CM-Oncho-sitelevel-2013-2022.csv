@@ -1,0 +1,972 @@
+﻿SN,ISO3,ADMIN1_NAME,ADMIN2_NAME,IU_NAME,LocationName,Latitude,Longitude,LocationType,SurveyYear,Method_1,Method_2,Examined,Positive,Prevalence
+839,CMR,Sud,Vallée-du-Ntem,Ambam,Abang Min,2.32,11.43,Village,2003,Clinical,Nodule Palpation,42,7,0.167
+840,CMR,Est,Lom-et-Djérem,Garoua Boulai,Abbo Boutila,5.714778,14.448111,Village,2013,Parasitological,Parasitology (Skin Biopsy),253,6,0.024
+841,CMR,Est,Lom-et-Djérem,Garoua Boulai,Abbo Boutila,5.714778,14.448111,Village,2013,Clinical,Nodule Palpation,253,10,0.04
+842,CMR,Adamaoua,Vina,Ngaoundere Rural,Abdi,7.18,14.2,Village,2003,Clinical,Nodule Palpation,31,2,0.065
+843,CMR,Sud,Dja-et-Lobo,Sangmelima,Abeck,2.636944,12.334722,Village,2005,Clinical,Nodule Palpation,30,12,0.4
+844,CMR,Est,Lom-et-Djérem,Garoua Boulai,Abo-Bouti,5.75,14.4166,Village,2004,Clinical,Nodule Palpation,30,2,0.067
+845,CMR,Sud,Dja-et-Lobo,Djoum,Aboulou,2.293333,12.139167,Village,2005,Clinical,Nodule Palpation,35,7,0.2
+846,CMR,Est,Lom-et-Djérem,Bertoua,Aboumadja,4.655556,13.327778,Village,,Clinical,Nodule Palpation,52,6,0.115
+847,CMR,Est,Lom-et-Djérem,Bertoua,Adiah,4.994444,13.361111,Village,,Clinical,Nodule Palpation,40,4,0.1
+848,CMR,Est,Haut-Nyong,Messamena,Adjane,3.416667,12.8,Village,2004,Clinical,Nodule Palpation,20,7,0.35
+849,CMR,Sud,Mvila,Ebolowa,Adjap,2.54,11.49,Village,2003,Clinical,Nodule Palpation,30,1,0.033
+850,CMR,Centre,Nyong-et-Foumou,Meyomessala,Adjap,3.429444,12.174167,Village,2005,Clinical,Nodule Palpation,37,5,0.135
+851,CMR,Sud,Océan,Kribi,Adjap/Nie,2.816667,10.194444,Village,,Clinical,Nodule Palpation,49,1,0.02
+852,CMR,Sud,Mvila,Ebolowa,Adjap/Yev,2.95,11.05,Village,,Clinical,Nodule Palpation,19,1,0.053
+853,CMR,Centre,Méfou-et-Afamba,Soa,Afan Esse,4.180556,11.627778,Village,,Clinical,Nodule Palpation,37,22,0.595
+854,CMR,Sud,Océan,Kribi,Afan Esso Kye,2.38095,9.97692,Village,2013,Parasitological,Parasitology (Skin Biopsy),79,0,0
+855,CMR,Sud,Océan,Kribi,Afan Esso Kye,2.38095,9.97692,Village,2013,Clinical,Nodule Palpation,80,3,0.038
+856,CMR,Sud,Mvila,Mvangan,Afanengon,2.77,11.2,Village,2003,Clinical,Nodule Palpation,30,0,0
+857,CMR,Sud,Vallée-du-Ntem,Ebolowa,Akame Mes,2.59,11.33,Village,2003,Clinical,Nodule Palpation,40,2,0.05
+858,CMR,Sud,Océan,Ebolowa,Akie,3.277778,10.911111,Village,,Clinical,Nodule Palpation,51,0,0
+859,CMR,Centre,Nyong-et-So'o,Zoetele,Akoeman,3.2,11.583333,Village,,Clinical,Nodule Palpation,42,0,0
+860,CMR,Sud,Océan,Kribi,Akom I,2.8201,10.11742,Village,2013,Parasitological,Parasitology (Skin Biopsy),237,1,0.004
+861,CMR,Sud,Océan,Kribi,Akom I,2.8201,10.11742,Village,2013,Clinical,Nodule Palpation,239,3,0.013
+862,CMR,Sud,Dja-et-Lobo,Messamena,Akom Ndon,2.996944,12.627778,Village,2005,Clinical,Nodule Palpation,48,18,0.375
+863,CMR,Sud,Océan,Kribi,Akom/Ma'a,2.441667,10.316667,Village,,Clinical,Nodule Palpation,30,0,0
+864,CMR,Sud,Océan,Lolodorf,Akom/Mven,3.377778,11.027778,Village,,Clinical,Nodule Palpation,30,0,0
+865,CMR,Sud,Dja-et-Lobo,Sangmelima,Akomessin,2.941944,11.7625,Village,2005,Clinical,Nodule Palpation,47,10,0.213
+866,CMR,Sud,Dja-et-Lobo,Djoum,Akon Tang,2.876389,12.837778,Village,2005,Clinical,Nodule Palpation,32,16,0.5
+867,CMR,Sud-Ouest,Manyu,Eyumodjock,Akwen-Mba,5.758333,9.061944,Village,,Clinical,Nodule Palpation,40,21,0.525
+868,CMR,Nord,Faro,Poli,Alani,8.461111,12.411111,Village,,Clinical,Nodule Palpation,30,9,0.3
+869,CMR,Sud,Mvila,Mvangan,Alotome,2.67,11.67,Village,2003,Clinical,Nodule Palpation,30,0,0
+870,CMR,Sud,Dja-et-Lobo,Meyomessala,Alouma,3.269444,12.196944,Village,2005,Clinical,Nodule Palpation,53,21,0.396
+871,CMR,Sud,Dja-et-Lobo,Sangmelima,Alouma,2.979444,11.868056,Village,2005,Clinical,Nodule Palpation,45,14,0.311
+872,CMR,Sud,Mvila,Ebolowa,Ando'o,2.88,11.1,Village,2003,Clinical,Nodule Palpation,30,2,0.067
+873,CMR,Est,Lom-et-Djérem,Bertoua,Andom,4.65,13.416667,Village,,Clinical,Nodule Palpation,30,12,0.4
+874,CMR,Centre,Mbam-et-Kim,Bafia,Angandjimberete,4.8833,11.35,Village,,Parasitological,Parasitology (Skin Biopsy),179,92,0.514
+875,CMR,Est,Haut-Nyong,Nguelemendouka,Angossas,4.066667,12.983333,Village,2004,Clinical,Nodule Palpation,39,1,0.026
+876,CMR,Nord,Faro,Poli,Aoudi,8.361111,12.333333,Village,,Clinical,Nodule Palpation,30,17,0.567
+877,CMR,Est,Haut-Nyong,Messamena,Apadjok,3.683333,12.716667,Village,2004,Clinical,Nodule Palpation,49,3,0.061
+878,CMR,Sud-Ouest,Manyu,Mamfe,Ashum,5.5775,9.35,Village,,Clinical,Nodule Palpation,50,26,0.52
+879,CMR,Sud,Vallée-du-Ntem,Ambam,Assandjik,2.37,11.34,Village,2003,Clinical,Nodule Palpation,34,1,0.029
+880,CMR,Sud,Dja-et-Lobo,Sangmelima,Assok Yev,3.023889,12.056944,Village,2005,Clinical,Nodule Palpation,49,13,0.265
+881,CMR,Adamaoua,Mayo-Banyo,Bankim,Atta,6.45,11.2833,Village,,Clinical,Nodule Palpation,41,1,0.024
+882,CMR,Sud,Dja-et-Lobo,Zoetele,Avebe Ess,3.153611,11.993056,Village,2005,Clinical,Nodule Palpation,51,17,0.333
+883,CMR,Sud,Dja-et-Lobo,Djoum,Aveube,2.747222,13.037778,Village,2005,Clinical,Nodule Palpation,38,15,0.395
+884,CMR,Centre,Méfou-et-Afamba,Mfou,Awae I,3.85,11.883333,Village,,Clinical,Nodule Palpation,21,0,0
+885,CMR,Nord-Ouest,Mezam,Bali,Awing,5.843056,10.108333,Village,,Clinical,Nodule Palpation,31,1,0.032
+886,CMR,Est,Haut-Nyong,Doume,Ayene,4.4,13.566667,Village,2004,Clinical,Nodule Palpation,50,1,0.02
+887,CMR,Sud-Ouest,Manyu,Eyumodjock,Ayukaba,5.70742,9.14414,Village,,Parasitological,Parasitology (Skin Biopsy),227,16,0.07
+888,CMR,Sud,Dja-et-Lobo,Sangmelima,Azem,2.9075,12.263333,Village,2005,Clinical,Nodule Palpation,51,13,0.255
+889,CMR,Nord,Bénoué,Mayo Oulo,Babessa,9.818889,13.597222,Village,2003,Clinical,Nodule Palpation,50,0,0
+890,CMR,Nord-Ouest,Ngoketunjia,Tubah,Babungo,6.054167,10.444444,Village,,Clinical,Nodule Palpation,34,3,0.088
+891,CMR,Sud-Ouest,Manyu,Mamfe,Bachou Akagbe,5.69222,9.4438,Village,,Parasitological,Parasitology (Skin Biopsy),323,66,0.204
+892,CMR,Sud-Ouest,Manyu,Mamfe,Bachuo Ta,5.691667,9.4,Village,,Clinical,Nodule Palpation,82,37,0.451
+893,CMR,Sud-Ouest,Meme,Kumba,Badouma,4.833333,9.456667,Village,,Clinical,Nodule Palpation,31,21,0.677
+894,CMR,Sud-Ouest,Ndian,Mundemba,Bafaka,4.725,9.163056,Village,,Clinical,Nodule Palpation,50,33,0.66
+895,CMR,Sud-Ouest,Fako,Buea,Bafia,4.35371,9.31791,Village,,Parasitological,Parasitology (Skin Biopsy),306,17,0.056
+896,CMR,Sud-Ouest,Fako,Buea,Bafia,4.360833,9.316667,Village,,Clinical,Nodule Palpation,50,26,0.52
+897,CMR,Ouest,Bamboutos,Mbouda,Bagam,5.683333,10.3,Village,,Clinical,Nodule Palpation,50,36,0.72
+898,CMR,Est,Kadey,Batouri,Bagbetout,4.066667,13.8,Village,2004,Clinical,Nodule Palpation,50,3,0.06
+899,CMR,Est,Haut-Nyong,Doume,Bagoloul,4.05,13.133333,Village,2004,Clinical,Nodule Palpation,50,1,0.02
+900,CMR,Nord,Mayo-Rey,Rey Bouba,Baila,8.672222,14.916667,Village,,Clinical,Nodule Palpation,30,4,0.133
+901,CMR,Adamaoua,Vina,Ngaoundere Rural,Bakari-Ba,7,14.27,Village,2003,Clinical,Nodule Palpation,31,13,0.419
+902,CMR,Adamaoua,Vina,Djohong,Bakari-Ba,6.933333,14.6,Village,,Clinical,Nodule Palpation,30,1,0.033
+903,CMR,Ouest,Haut-Nkam,Bandja,Bakassa,5.168783,10.288058,Village,2011,Parasitological,Parasitology (Skin Biopsy),310,15,0.048
+904,CMR,Ouest,Nkoung-Khi,Bandjoun,Bakassa(Pm),5.414722,10.456389,Village,,Parasitological,Parasitology (Skin Biopsy),269,8,0.03
+905,CMR,Sud-Ouest,Manyu,Mamfe,Bakebe I,5.5575,9.558056,Village,,Clinical,Nodule Palpation,52,42,0.808
+906,CMR,Sud-Ouest,Kupe-Muanenguba,Konye,Bakolle,4.960833,9.510833,Village,,Clinical,Nodule Palpation,50,38,0.76
+907,CMR,Ouest,Haut-Nkam,Kekem,Bakondji,5.208333,10.133333,Village,,Clinical,Nodule Palpation,30,25,0.833
+908,CMR,Centre,Mbam-et-Inoubou,Saa,Balamba II,4.4333,11.2333,Village,,Parasitological,Parasitology (Skin Biopsy),212,104,0.491
+909,CMR,Nord,Faro,Poli,Balkossa,8.5,12.433333,Village,,Clinical,Nodule Palpation,30,10,0.333
+910,CMR,Ouest,Bamboutos,Mbouda,Balloum,5.625,10.35,Village,,Clinical,Nodule Palpation,39,31,0.795
+911,CMR,Nord,Mayo-Louti,Figuil,Bambalo,9.79,14.056667,Village,2003,Clinical,Nodule Palpation,5,4,0.8
+912,CMR,Est,Lom-et-Djérem,Betare Oya,Bambouti,5.083333,14.033333,Village,2004,Clinical,Nodule Palpation,47,0,0
+913,CMR,Nord,Bénoué,Garoua I,Bame,9.075,13.6,Village,,Clinical,Nodule Palpation,18,4,0.222
+914,CMR,Ouest,Bamboutos,Galim,Bamendjin,5.705556,10.488889,Village,,Clinical,Nodule Palpation,50,40,0.8
+915,CMR,Ouest,Hauts-Plateaux,Bamendjou,Bamendjou,5.388889,10.333333,Village,,Clinical,Nodule Palpation,36,19,0.528
+916,CMR,Ouest,Menoua,Dschang,Bamendou,5.455556,10.202778,Village,,Clinical,Nodule Palpation,34,13,0.382
+917,CMR,Nord-Ouest,Mezam,Tubah,Bamessing,5.976388,10.3625,Village,,Clinical,Nodule Palpation,46,3,0.065
+918,CMR,Ouest,Mifi,Penka Michel,Bamougoum,5.5125,10.341667,Village,,Clinical,Nodule Palpation,39,21,0.538
+919,CMR,Ouest,Haut-Nkam,Bandja,Bana,5.155556,10.273611,Village,,Clinical,Nodule Palpation,30,24,0.8
+920,CMR,Est,Boumba-et-Ngoko,Yokadouma,Bandekok,3.220917,15.009667,Village,2013,Parasitological,Parasitology (Skin Biopsy),162,0,0
+921,CMR,Est,Boumba-et-Ngoko,Yokadouma,Bandekok,3.220917,15.009667,Village,2013,Clinical,Nodule Palpation,162,15,0.093
+922,CMR,Est,Boumba-et-Ngoko,Yokadouma,Bandekok,3.216667,15.011111,Village,,Clinical,Nodule Palpation,26,2,0.077
+923,CMR,Ouest,Nkoung-Khi,Baham,Bandjoun,5.366667,10.416667,Village,,Clinical,Nodule Palpation,30,22,0.733
+924,CMR,Littoral,Wouri,Bonassama,Banen,4.12,9.683889,Village,2006,Clinical,Nodule Palpation,15,0,0
+925,CMR,Ouest,Bamboutos,Batcham,Bangang,5.55,10.166667,Village,,Clinical,Nodule Palpation,30,18,0.6
+926,CMR,Ouest,Ndé,Bangangte,Bangangte,5.1,10.625,Village,,Clinical,Nodule Palpation,30,25,0.833
+927,CMR,Est,Lom-et-Djérem,Garoua Boulai,Bangbel,5.671667,14.133056,Village,2004,Clinical,Nodule Palpation,41,0,0
+928,CMR,Est,Boumba-et-Ngoko,Yokadouma,Bangue,3.011111,15.177778,Village,,Clinical,Nodule Palpation,28,1,0.036
+929,CMR,Ouest,Hauts-Plateaux,Baham,Banka,5.308333,10.343056,Village,,Clinical,Nodule Palpation,50,38,0.76
+930,CMR,Adamaoua,Mayo-Banyo,Bankim,Bankim,6.081944,11.488889,Village,,Clinical,Nodule Palpation,30,10,0.333
+931,CMR,Ouest,Haut-Nkam,Bamendjou,Bankondji,5.353611,10.235,Village,,Parasitological,Parasitology (Skin Biopsy),417,11,0.026
+932,CMR,Adamaoua,Mayo-Banyo,Bankim,Banti-Ba,6.59,11.55,Village,2003,Clinical,Nodule Palpation,31,13,0.419
+933,CMR,Ouest,Ndé,Bangangte,Bantoumi,5.095833,10.661111,Village,,Clinical,Nodule Palpation,30,26,0.867
+934,CMR,Adamaoua,Vina,Ngaoundere Rural,Baore,6.87,14.05,Village,2003,Clinical,Nodule Palpation,41,6,0.146
+935,CMR,Ouest,Noun,Foumbot,Bapi,5.432334,10.82864,Village,2011,Parasitological,Parasitology (Skin Biopsy),259,23,0.089
+936,CMR,Est,Haut-Nyong,Abong Mbang,Bapile,3.333333,13.583333,Village,2004,Clinical,Nodule Palpation,32,1,0.031
+937,CMR,Nord,Bénoué,Gaschiga,Bascheo,9.743056,13.475833,Village,2003,Clinical,Nodule Palpation,50,1,0.02
+938,CMR,Sud-Ouest,Kupe-Muanenguba,Tombel,Basseng,4.925,9.707222,Village,,Clinical,Nodule Palpation,41,23,0.561
+939,CMR,Nord,Mayo-Louti,Figuil,Batao,9.944444,14.15,Village,,Clinical,Nodule Palpation,40,1,0.025
+940,CMR,Ouest,Bamboutos,Batcham,Batcham,5.597222,10.206944,Village,,Clinical,Nodule Palpation,30,17,0.567
+941,CMR,Ouest,Bamboutos,Galim,Batie,5.666667,10.45,Village,,Clinical,Nodule Palpation,30,13,0.433
+942,CMR,Ouest,Nkoung-Khi,Bandjoun,Batoula,5.346111,10.481389,Village,2011,Parasitological,Parasitology (Skin Biopsy),103,21,0.204
+943,CMR,Nord,Bénoué,Gaschiga,Batoum,9.9,13.55,Village,2003,Clinical,Nodule Palpation,50,3,0.06
+944,CMR,Adamaoua,Mbéré,Djohong,Batour,7.1,15.166667,Village,,Clinical,Nodule Palpation,30,15,0.5
+945,CMR,Ouest,Hauts-Plateaux,Baham,Bayagam,5.25,10.416667,Village,,Clinical,Nodule Palpation,30,20,0.667
+946,CMR,Adamaoua,Vina,Ngaoundere Rural,Bayara,6.88,14.42,Village,2003,Clinical,Nodule Palpation,32,0,0
+947,CMR,Adamaoua,Vina,Ngaoundere Rural,Bayara,6.983333,14.566667,Village,,Clinical,Nodule Palpation,30,0,0
+948,CMR,Ouest,Ndé,Bangangte,Bazou,5.061111,10.466667,Village,,Clinical,Nodule Palpation,30,22,0.733
+949,CMR,Est,Lom-et-Djérem,Batouri,Bazzama,4.516667,13.933333,Village,2004,Clinical,Nodule Palpation,29,0,0
+950,CMR,Sud-Ouest,Manyu,Wabane,Bechati,5.664444,9.904444,Village,,Clinical,Nodule Palpation,75,47,0.627
+951,CMR,Est,Haut-Nyong,Abong Mbang,Bedoumo,3.652778,13.363889,Village,,Clinical,Nodule Palpation,28,1,0.036
+952,CMR,Nord-Ouest,Menchum,Njikwa,Befang,6.326389,9.969444,Village,,Clinical,Nodule Palpation,33,9,0.273
+953,CMR,Sud-Ouest,Manyu,Eyumodjock,Beja-Bero,5.420833,9.160833,Village,,Clinical,Nodule Palpation,57,34,0.596
+954,CMR,Nord,Faro,Poli,Beka,9.068611,12.925278,Village,2003,Clinical,Nodule Palpation,36,12,0.333
+955,CMR,Adamaoua,Vina,Ngaoundere Rural,Beka Modi,6.911111,14.455556,Village,,Clinical,Nodule Palpation,30,0,0
+956,CMR,Adamaoua,Mbéré,Meiganga,Bekaziki,6.29,14,Village,2003,Clinical,Nodule Palpation,35,7,0.2
+957,CMR,Littoral,Moungo,Abo,Bekoko,4.35,9.779444,Village,2006,Clinical,Nodule Palpation,30,1,0.033
+958,CMR,Sud-Ouest,Manyu,Mamfe,Bekumu II,5.383333,9.45,Village,2003,Clinical,Nodule Palpation,33,3,0.091
+959,CMR,Est,Lom-et-Djérem,Bertoua,Belabo Vi,4.9,13.294444,Village,2004,Clinical,Nodule Palpation,21,8,0.381
+960,CMR,Est,Lom-et-Djérem,Bertoua,Belabo Vi,4.916667,13.266667,Village,,Clinical,Nodule Palpation,40,21,0.525
+961,CMR,Adamaoua,Vina,Ngaoundere Rural,Belel,7.033333,14.55,Village,,Clinical,Nodule Palpation,30,0,0
+962,CMR,Littoral,Nkam,Yabassi,Benga I,4.612222,10.058611,Village,,Clinical,Nodule Palpation,22,14,0.636
+963,CMR,Littoral,Moungo,Abo,Bengse,4.35868,9.74453,Village,2013,Parasitological,Parasitology (Skin Biopsy),111,1,0.009
+964,CMR,Littoral,Moungo,Abo,Bengse,4.35868,9.74453,Village,2013,Clinical,Nodule Palpation,104,2,0.019
+965,CMR,Littoral,Moungo,Abo,Bengse,4.366667,9.745278,Village,,Clinical,Nodule Palpation,17,3,0.176
+966,CMR,Littoral,Nkam,Deido,Bepulu,4.226111,9.798611,Village,2006,Clinical,Nodule Palpation,18,0,0
+967,CMR,Nord-Ouest,Donga-Mantung,Nkambe,Berabe,6.688889,10.743056,Village,,Clinical,Nodule Palpation,35,14,0.4
+968,CMR,Centre,Haute-Sanaga,Nanga Eboko,Berkong,4.65,12.616667,Village,,Clinical,Nodule Palpation,29,0,0
+969,CMR,Sud-Ouest,Lebialem,Wabane,Bessali,5.63,9.896111,Village,,Clinical,Nodule Palpation,59,34,0.576
+970,CMR,Nord-Ouest,Momo,Batibo,Bessi,5.811111,9.920833,Village,,Clinical,Nodule Palpation,31,7,0.226
+971,CMR,Littoral,Nkam,Yabassi,Bessounka,4.468056,9.914444,Village,2006,Clinical,Nodule Palpation,33,6,0.182
+972,CMR,Centre,Mbam-et-Inoubou,Bafia,Bialangue,4.644444,11.35,Village,,Clinical,Nodule Palpation,82,70,0.854
+973,CMR,Centre,Mbam-et-Inoubou,Saa,Bialanguena,4.533333,11.339,Village,,Parasitological,Parasitology (Skin Biopsy),289,207,0.716
+974,CMR,Centre,Mbam-et-Kim,Obala,Biatsota,4.408611,11.639444,Village,,Clinical,Nodule Palpation,93,61,0.656
+975,CMR,Centre,Mbam-et-Inoubou,Bafia,Biatsotta,4.766667,11.28333,Village,2011,Parasitological,Parasitology (Skin Biopsy),227,150,0.661
+976,CMR,Est,Haut-Nyong,Messamena,Biba,3.516667,12.666667,Village,2004,Clinical,Nodule Palpation,38,8,0.211
+977,CMR,Sud,Mvila,Ebolowa,Biba I,2.77,11.11,Village,2003,Clinical,Nodule Palpation,31,2,0.065
+978,CMR,Sud,Dja-et-Lobo,Zoetele,Bibe,3.22,11.82,Village,2003,Clinical,Nodule Palpation,43,2,0.047
+979,CMR,Centre,Haute-Sanaga,Nanga Eboko,Biboa,4.444444,12.605556,Village,,Clinical,Nodule Palpation,24,0,0
+980,CMR,Centre,Nyong-et-Foumou,Meyomessala,Biboulema,3.345833,12.156944,Village,2005,Clinical,Nodule Palpation,31,8,0.258
+981,CMR,Littoral,Sanaga-Maritime,Ngambe,Bibumha,3.98008,10.56299,Village,,Parasitological,Parasitology (Skin Biopsy),142,40,0.282
+982,CMR,Sud,Océan,Kribi,Bidjouka,3.116667,10.483333,Village,,Clinical,Nodule Palpation,50,0,0
+983,CMR,Sud,Océan,Kribi,Bidou II,2.858333,10,Village,,Clinical,Nodule Palpation,17,0,0
+984,CMR,Sud,Dja-et-Lobo,Zoetele,Bikobo,3.229167,11.840556,Village,2005,Clinical,Nodule Palpation,47,13,0.277
+985,CMR,Sud,Océan,Lolodorf,Bikoe I,3.32624,10.85404,Village,2013,Parasitological,Parasitology (Skin Biopsy),262,2,0.008
+986,CMR,Sud,Océan,Lolodorf,Bikoe I,3.32624,10.85404,Village,2013,Clinical,Nodule Palpation,262,6,0.023
+987,CMR,Centre,Nyong-et-Foumou,Akonolinga,Bilone,3.434167,11.989444,Village,2005,Clinical,Nodule Palpation,30,7,0.233
+988,CMR,Nord,Faro,Poli,Bimba,8.577778,12.511111,Village,,Clinical,Nodule Palpation,30,4,0.133
+989,CMR,Est,Haut-Nyong,Doume,Bindanang,4.016667,13.083333,Village,2004,Clinical,Nodule Palpation,50,3,0.06
+990,CMR,Est,Lom-et-Djérem,Meiganga,Bindiba,6.066667,14.383333,Village,2004,Clinical,Nodule Palpation,36,2,0.056
+991,CMR,Est,Haut-Nyong,Abong Mbang,Bindom,2.941667,13.384722,Village,2005,Clinical,Nodule Palpation,49,29,0.592
+992,CMR,Centre,Nyong-et-So'o,Zoetele,Bindoumba,3.360278,11.718611,Village,2005,Clinical,Nodule Palpation,41,3,0.073
+993,CMR,Est,Haut-Nyong,Abong Mbang,Bingongol,3.211389,14.0025,Village,2004,Clinical,Nodule Palpation,30,3,0.1
+994,CMR,Est,Lom-et-Djérem,Bertoua,Biombe,5,13.333333,Village,2004,Clinical,Nodule Palpation,32,17,0.531
+995,CMR,Nord,Mayo-Rey,Rey Bouba,Bissa,8.666667,14.977778,Village,,Clinical,Nodule Palpation,30,12,0.4
+996,CMR,Centre,Haute-Sanaga,Mbandjock,Bissaga,4.666667,12.133333,Village,,Clinical,Nodule Palpation,29,14,0.483
+997,CMR,Sud,Dja-et-Lobo,Meyomessala,Bissombo,3.27,12.48,Village,2003,Clinical,Nodule Palpation,30,11,0.367
+998,CMR,Adamaoua,Vina,Ngaoundere Rural,Bissouna,7.08,13.12,Village,2003,Clinical,Nodule Palpation,31,1,0.032
+999,CMR,Sud,Mvila,Mvangan,Biwong-Bo,2.783333,11.366667,Village,,Clinical,Nodule Palpation,39,1,0.026
+1000,CMR,Centre,Nyong-et-Foumou,Meyomessala,Biyan,3.429722,12.174167,Village,2005,Clinical,Nodule Palpation,50,19,0.38
+1001,CMR,Sud,Vallée-du-Ntem,Ambam,Biyan,2.5,10.8,Village,,Clinical,Nodule Palpation,25,0,0
+1002,CMR,Sud,Dja-et-Lobo,Meyomessala,Biyebe,3.27,12.18,Village,2003,Clinical,Nodule Palpation,30,0,0
+1003,CMR,Centre,Nyong-et-Foumou,Meyomessala,Bizang,3.415278,12.138889,Village,2005,Clinical,Nodule Palpation,30,9,0.3
+1004,CMR,Littoral,Nkam,Deido,Boadibo,4.208333,9.8325,Village,2006,Clinical,Nodule Palpation,28,3,0.107
+1005,CMR,Sud-Ouest,Fako,Limbe,Boanda,4.116111,9.310833,Village,,Clinical,Nodule Palpation,50,38,0.76
+1006,CMR,Nord,Mayo-Rey,Rey Bouba,Bodal,8.783333,13.997222,Village,,Clinical,Nodule Palpation,40,1,0.025
+1007,CMR,Littoral,Nkam,Yabassi,Bodiman,4.39223,9.8704,Village,2011,Parasitological,Parasitology (Skin Biopsy),112,73,0.652
+1008,CMR,Nord,Bénoué,Bibemi,Boeli,9.3,14.091667,Village,,Clinical,Nodule Palpation,40,1,0.025
+1009,CMR,Nord,Mayo-Rey,Touboro,Bogdoro,7.616667,15.366667,Village,,Clinical,Nodule Palpation,54,44,0.815
+1010,CMR,Adamaoua,Djérem,Ngaoundal,Bogodo,6.25,13.23,Village,2003,Clinical,Nodule Palpation,50,19,0.38
+1011,CMR,Littoral,Wouri,Bonassama,Bojongo,4.12,9.683889,Village,2006,Clinical,Nodule Palpation,31,1,0.032
+1012,CMR,Sud-Ouest,Meme,Mbonge,Bokosso,4.421944,9.151944,Village,,Clinical,Nodule Palpation,51,20,0.392
+1013,CMR,Littoral,Moungo,Bonassama,Bomono Ba,4.133333,9.596667,Village,,Clinical,Nodule Palpation,30,1,0.033
+1014,CMR,Littoral,Nkam,Yabassi,Bonadissake,4.49417,9.9756,Village,,Parasitological,Parasitology (Skin Biopsy),146,55,0.377
+1015,CMR,Littoral,Nkam,Yabassi,Bonamatek,4.372222,9.940833,Village,2006,Clinical,Nodule Palpation,32,3,0.094
+1016,CMR,Littoral,Moungo,Dibombari,Bonamatou,4.261944,9.703056,Village,2006,Clinical,Nodule Palpation,30,0,0
+1017,CMR,Adamaoua,Mbéré,Djohong,Bondo,6.48,14.38,Village,2003,Clinical,Nodule Palpation,30,5,0.167
+1018,CMR,Littoral,Wouri,Deido,Bonendal?,4.145556,9.775833,Village,2006,Clinical,Nodule Palpation,38,0,0
+1019,CMR,Littoral,Nkam,Yabassi,Bonepoupa,4.093889,10.037222,Village,,Clinical,Nodule Palpation,51,35,0.686
+1020,CMR,Est,Lom-et-Djérem,Betare Oya,Bongo,5.533333,14.183333,Village,2004,Clinical,Nodule Palpation,33,3,0.091
+1021,CMR,Nord,Mayo-Rey,Tchollire,Bongo,8.527778,15.022222,Village,,Clinical,Nodule Palpation,30,5,0.167
+1022,CMR,Adamaoua,Mbéré,Djohong,Borgou,6.54,14.48,Village,2003,Clinical,Nodule Palpation,43,6,0.14
+1023,CMR,Est,Lom-et-Djérem,Garoua Boulai,Borongo,5.5,14.3,Village,2004,Clinical,Nodule Palpation,32,7,0.219
+1024,CMR,Extrême-Nord,Mayo-Sava,Mora,Bounderti,11.35,14.406944,Village,2003,Clinical,Nodule Palpation,30,0,0
+1025,CMR,Centre,Mbam-et-Inoubou,Bafia,Boyabisso,4.616667,11.303333,Village,,Clinical,Nodule Palpation,79,33,0.418
+1026,CMR,Sud-Ouest,Kupe-Muanenguba,Njombe Penja,Buba,4.628889,9.6275,Village,,Clinical,Nodule Palpation,26,19,0.731
+1027,CMR,Sud-Ouest,Ndian,Mundemba,Bulu Camp,4.90011,8.86463,Village,2012,Parasitological,Parasitology (Skin Biopsy),170,0,0
+1028,CMR,Littoral,Moungo,Bonassama,Bwadibo,4.09089,9.58249,Village,2013,Parasitological,Parasitology (Skin Biopsy),169,5,0.03
+1029,CMR,Littoral,Moungo,Bonassama,Bwadibo,4.09089,9.58249,Village,2013,Clinical,Nodule Palpation,151,2,0.013
+1030,CMR,Sud-Ouest,Ndian,Mundemba,Camiton I,5.216667,8.966667,Village,2003,Clinical,Nodule Palpation,35,5,0.143
+1031,CMR,Extrême-Nord,Mayo-Tsanaga,Mokolo,Chugule,10.795278,13.776389,Village,2003,Clinical,Nodule Palpation,50,23,0.46
+1032,CMR,Nord-Ouest,Donga-Mantung,Nkambe,Chup,6.488888,10.661111,Village,,Clinical,Nodule Palpation,37,9,0.243
+1033,CMR,Adamaoua,Djérem,Tibati,Dabere,6.6125,12.1,Village,,Clinical,Nodule Palpation,8,0,0
+1034,CMR,Est,Lom-et-Djérem,Bertoua,Daiguene,4.783333,13.833333,Village,2004,Clinical,Nodule Palpation,43,0,0
+1035,CMR,Nord,Mayo-Rey,Rey Bouba,Dami,8.85,14.216667,Village,,Clinical,Nodule Palpation,31,10,0.323
+1036,CMR,Adamaoua,Mbéré,Meiganga,Dankali,6.4,14.25,Village,2003,Clinical,Nodule Palpation,33,5,0.152
+1037,CMR,Extrême-Nord,Mayo-Tsanaga,Koza,Dayak Mid,10.801111,13.869722,Village,2003,Clinical,Nodule Palpation,50,10,0.2
+1038,CMR,Centre,Haute-Sanaga,Nanga Eboko,Dea,4.5,12.566667,Village,,Clinical,Nodule Palpation,40,0,0
+1039,CMR,Sud-Ouest,Manyu,Mamfe,Defang,5.5,9.564444,Village,,Clinical,Nodule Palpation,63,43,0.683
+1040,CMR,Sud,Océan,Kribi,Dehane,3.49008,10.0857,Village,2013,Parasitological,Parasitology (Skin Biopsy),131,8,0.061
+1041,CMR,Sud,Océan,Kribi,Dehane,3.49008,10.0857,Village,2013,Clinical,Nodule Palpation,174,12,0.069
+1042,CMR,Sud,Océan,Kribi,Dehane,3.488889,10.083333,Village,,Clinical,Nodule Palpation,51,12,0.235
+1043,CMR,Nord,Bénoué,Gaschiga,Demsa,9.544444,13.227778,Village,,Clinical,Nodule Palpation,30,12,0.4
+1044,CMR,Sud-Ouest,Kupe-Muanenguba,Mamfe,Dian Town,5.25,9.216667,Village,2003,Clinical,Nodule Palpation,30,13,0.433
+1045,CMR,Littoral,Sanaga-Maritime,Edea,Dibongo,3.7057,10.0333,Village,2013,Parasitological,Parasitology (Skin Biopsy),166,30,0.181
+1046,CMR,Littoral,Sanaga-Maritime,Edea,Dibongo,3.7057,10.0333,Village,2013,Clinical,Nodule Palpation,166,3,0.018
+1047,CMR,Nord,Faro,Poli,Didango,8.994722,12.884444,Village,2003,Clinical,Nodule Palpation,50,10,0.2
+1048,CMR,Sud-Ouest,Meme,Mbonge,Dienyi,4.631111,9.218333,Village,,Clinical,Nodule Palpation,50,39,0.78
+1049,CMR,Est,Haut-Nyong,Abong Mbang,Dilom,3.8,13.766667,Village,2004,Clinical,Nodule Palpation,31,6,0.194
+1050,CMR,Est,Haut-Nyong,Doume,Dimako I,4.233333,13.65,Village,2004,Clinical,Nodule Palpation,26,0,0
+1051,CMR,Est,Haut-Nyong,Messamena,Dimpam,3.533333,12.783333,Village,2004,Clinical,Nodule Palpation,42,9,0.214
+1052,CMR,Nord,Faro,Poli,Dingtire,8.580556,12.761111,Village,,Clinical,Nodule Palpation,30,12,0.4
+1053,CMR,Adamaoua,Djérem,Ngaoundal,Dir,6.19,13.32,Village,2003,Clinical,Nodule Palpation,50,5,0.1
+1054,CMR,Nord,Mayo-Louti,Mayo Oulo,Diri,9.8375,13.633611,Village,2003,Clinical,Nodule Palpation,41,0,0
+1055,CMR,Sud-Ouest,Meme,Kumba,Dissosso,4.731111,9.258333,Village,,Clinical,Nodule Palpation,25,21,0.84
+1056,CMR,Nord,Mayo-Louti,Figuil,Djabbe,9.85,14.116667,Village,,Clinical,Nodule Palpation,30,19,0.633
+1057,CMR,Nord,Bénoué,Pitoa,Djalingo,9.405556,13.751111,Village,2003,Clinical,Nodule Palpation,33,2,0.061
+1058,CMR,Nord,Bénoué,Garoua I,Djalingo,8.966667,13.533333,Village,,Clinical,Nodule Palpation,30,2,0.067
+1059,CMR,Adamaoua,Faro-et-Déo,Tignere,Djamtari,7.7,12.25,Village,,Clinical,Nodule Palpation,36,26,0.722
+1060,CMR,Nord,Mayo-Rey,Rey Bouba,Djibao,8.683333,14.816667,Village,,Clinical,Nodule Palpation,30,14,0.467
+1061,CMR,Nord,Mayo-Rey,Tchollire,Djindang,7.315278,14.578056,Village,2003,Clinical,Nodule Palpation,33,8,0.242
+1062,CMR,Extrême-Nord,Mayo-Tsanaga,Koza,Djingliya,10.841944,13.866111,Village,2003,Clinical,Nodule Palpation,51,12,0.235
+1063,CMR,Adamaoua,Mbéré,Djohong,Djohong,6.833333,14.7,Village,,Clinical,Nodule Palpation,30,3,0.1
+1064,CMR,Est,Haut-Nyong,Abong Mbang,Djolempou,3.566667,13.433333,Village,2004,Clinical,Nodule Palpation,42,0,0
+1065,CMR,Adamaoua,Djérem,Tibati,Djombi,6.7,12.616667,Village,,Clinical,Nodule Palpation,33,2,0.061
+1066,CMR,Nord-Ouest,Bui,Kumbo West,Djottin,6.283333,10.570833,Village,,Clinical,Nodule Palpation,43,15,0.349
+1067,CMR,Centre,Lekié,Elig Mfomo,Djouniat,4.360556,11.285833,Village,,Clinical,Nodule Palpation,40,20,0.5
+1068,CMR,Est,Haut-Nyong,Abong Mbang,Djouyaya,3.783333,13.333333,Village,2004,Clinical,Nodule Palpation,50,2,0.04
+1069,CMR,Est,Haut-Nyong,Djoum,Djouze,2.886944,12.8925,Village,2005,Clinical,Nodule Palpation,34,22,0.647
+1070,CMR,Adamaoua,Djérem,Ngaoundal,Doaouissa,6.32,12.55,Village,2003,Clinical,Nodule Palpation,44,9,0.205
+1071,CMR,Nord,Mayo-Rey,Rey Bouba,Dobinga,8.966666,14.449999,Village,,Clinical,Nodule Palpation,30,7,0.233
+1072,CMR,Nord,Mayo-Rey,Tchollire,Dogba,8.327778,13.677778,Village,,Clinical,Nodule Palpation,30,11,0.367
+1073,CMR,Nord,Mayo-Rey,REY BOUBA,Dokerol,9.067474,14.4499169,Village,2003,Clinical,Nodule Palpation,50,10,0.2
+1074,CMR,Nord,Mayo-Rey,Tchollire,Douffing,8.366667,14.15,Village,1993,Clinical,Nodule Palpation,50,30,0.6
+1075,CMR,Nord,Mayo-Rey,Tchollire,Douffing,8.366667,14.15,Village,,Parasitological,Parasitology (Skin Biopsy),176,0,0
+1076,CMR,Centre,Mbam-et-Kim,Yoko,Dougbe (D,5.53,12.16,Village,2003,Clinical,Nodule Palpation,32,10,0.313
+1077,CMR,Sud,Dja-et-Lobo,Djoum,Doum,2.661944,12.849167,Village,2005,Clinical,Nodule Palpation,33,14,0.424
+1078,CMR,Centre,Mbam-et-Kim,Yoko,Doume,5.897222,12.283333,Village,,Clinical,Nodule Palpation,50,8,0.16
+1079,CMR,Est,Haut-Nyong,Abong Mbang,Doumzo I,3.133333,13.733333,Village,2004,Clinical,Nodule Palpation,30,0,0
+1080,CMR,Adamaoua,Mbéré,Meiganga,Dozomo,6.23,14.08,Village,2003,Clinical,Nodule Palpation,30,7,0.233
+1081,CMR,Centre,Nyong-et-So'o,Mfou,Dzeng Vil,3.733333,11.9,Village,,Clinical,Nodule Palpation,13,0,0
+1082,CMR,Adamaoua,Vina,Ngaoundere Rural,Dzerba,6.98,14.14,Village,2003,Clinical,Nodule Palpation,31,1,0.032
+1083,CMR,Adamaoua,Mbéré,Meiganga,Dzerjem,6.32,13.37,Village,2003,Clinical,Nodule Palpation,49,18,0.367
+1084,CMR,Adamaoua,Mbéré,Meiganga,Dzibiri,6.44,14.28,Village,2003,Clinical,Nodule Palpation,31,8,0.258
+1085,CMR,Est,Haut-Nyong,Messamena,Ebade,3.716667,12.683333,Village,2004,Clinical,Nodule Palpation,50,3,0.06
+1086,CMR,Sud-Ouest,Manyu,Mamfe,Ebeagwa,5.5725,9.727222,Village,,Clinical,Nodule Palpation,54,37,0.685
+1087,CMR,Sud,Mvila,Ebolowa,Ebemewoma,3.09,11.19,Village,2003,Clinical,Nodule Palpation,30,0,0
+1088,CMR,Sud,Océan,Ebolowa,Ebemvok,2.816667,10.683333,Village,,Clinical,Nodule Palpation,29,0,0
+1089,CMR,Sud-Ouest,Ndian,Ekondo Titi,Ebinsi-Ba,4.69,9.156944,Village,,Clinical,Nodule Palpation,69,16,0.232
+1090,CMR,Centre,Nyong-et-Foumou,Akonolinga,Eboa,3.751361,12.23425,Village,2013,Parasitological,Parasitology (Skin Biopsy),143,1,0.007
+1091,CMR,Centre,Nyong-et-Foumou,Akonolinga,Eboa,3.751361,12.23425,Village,2013,Clinical,Nodule Palpation,1,0,0
+1092,CMR,Centre,Nyong-et-So'o,Mbalmayo,Ebogo,3.388889,11.472222,Village,,Clinical,Nodule Palpation,41,1,0.024
+1093,CMR,Sud,Vallée-du-Ntem,Ambam,Ebolmbama,2.644444,10.822222,Village,,Clinical,Nodule Palpation,21,0,0
+1094,CMR,Est,Haut-Nyong,Abong Mbang,Echiambor,3.365278,13.84,Village,2004,Clinical,Nodule Palpation,30,3,0.1
+1095,CMR,Sud,Dja-et-Lobo,Zoetele,Efot,3.333889,11.918611,Village,2005,Clinical,Nodule Palpation,30,3,0.1
+1096,CMR,Sud,Dja-et-Lobo,Meyomessala,Efoulan,3.347778,12.114444,Village,2005,Clinical,Nodule Palpation,30,9,0.3
+1097,CMR,Sud-Ouest,Manyu,Mamfe,Egbekaw,5.76244,9.3068,Village,,Parasitological,Parasitology (Skin Biopsy),275,28,0.102
+1098,CMR,Centre,Mbam-et-Kim,Bafia,Egona II,4.829444,11.324444,Village,,Clinical,Nodule Palpation,67,34,0.507
+1099,CMR,Centre,Haute-Sanaga,Mbandjock,Ekan,4.4,12.238889,Village,,Clinical,Nodule Palpation,13,4,0.308
+1100,CMR,Sud,Vallée-du-Ntem,Olamze,Ekeke,2.325,10.916667,Village,,Clinical,Nodule Palpation,33,2,0.061
+1101,CMR,Centre,Haute-Sanaga,MBANDJOCK,Ekok,4.6484685,12.0225493,Village,,Clinical,Nodule Palpation,52,3,0.058
+1102,CMR,Littoral,Moungo,Melong,Ekom,5.062222,10.018333,Village,,Clinical,Nodule Palpation,30,26,0.867
+1103,CMR,Sud-Ouest,Meme,Mbonge,Ekombe-Ek,4.608889,9.356944,Village,,Clinical,Nodule Palpation,54,42,0.778
+1104,CMR,Sud-Ouest,Ndian,Mbonge,Ekombe-Ly,4.5,9.106111,Village,,Clinical,Nodule Palpation,56,35,0.625
+1105,CMR,Sud-Ouest,Meme,Mbonge,Ekombe Bonji,4.60737,9.35914,Village,,Parasitological,Parasitology (Skin Biopsy),173,9,0.052
+1106,CMR,Centre,Mbam-et-Inoubou,Ndikinimeki,Ekondje,4.641667,10.925,Village,,Clinical,Nodule Palpation,25,9,0.36
+1107,CMR,Sud-Ouest,Fako,Limbe,Ekonje,4.060833,9.162778,Village,,Clinical,Nodule Palpation,50,37,0.74
+1108,CMR,Centre,Nyong-et-So'o,Mbalmayo,Ekoudendi,3.422222,11.288889,Village,,Clinical,Nodule Palpation,40,10,0.25
+1109,CMR,Sud,Mvila,Ebolowa,Ekouk,2.92,11.33,Village,2003,Clinical,Nodule Palpation,25,0,0
+1110,CMR,Sud,Mvila,Ebolowa,Ekoumdoum,2.74509,11.07174,Village,2013,Parasitological,Parasitology (Skin Biopsy),209,3,0.014
+1111,CMR,Sud,Mvila,Ebolowa,Ekoumdoum,2.74509,11.07174,Village,2013,Clinical,Nodule Palpation,209,5,0.024
+1112,CMR,Centre,Lekié,Mbankomo,Ekoumtick,3.858278,11.215222,Village,2013,Parasitological,Parasitology (Skin Biopsy),138,7,0.051
+1113,CMR,Centre,Lekié,Mbankomo,Ekoumtick,3.858278,11.215222,Village,2013,Clinical,Nodule Palpation,33,0,0
+1114,CMR,Sud,Mvila,Mvangan,Ekowong,2.513889,11.902778,Village,,Clinical,Nodule Palpation,25,0,0
+1115,CMR,Est,Haut-Nyong,Nguelemendouka,Ekpassong,4.216667,12.866667,Village,2004,Clinical,Nodule Palpation,30,2,0.067
+1116,CMR,Sud-Ouest,Ndian,Ekondo Titi,Ekwe,4.686111,9.158333,Village,,Clinical,Nodule Palpation,50,30,0.6
+1117,CMR,Sud,Dja-et-Lobo,Sangmelima,Elom,2.71,12.17,Village,2003,Clinical,Nodule Palpation,30,2,0.067
+1118,CMR,Sud,Dja-et-Lobo,Sangmelima,Elomyemfe,2.709722,12.181944,Village,2005,Clinical,Nodule Palpation,49,14,0.286
+1119,CMR,Sud,Océan,Ebolowa,Elon,3.24618,10.89363,Village,2013,Parasitological,Parasitology (Skin Biopsy),155,3,0.019
+1120,CMR,Sud,Océan,Ebolowa,Elon,3.24618,10.89363,Village,2013,Clinical,Nodule Palpation,171,1,0.006
+1121,CMR,Centre,Haute-Sanaga,Nanga Eboko,Elot,4.577778,12.738889,Village,,Clinical,Nodule Palpation,23,1,0.043
+1122,CMR,Sud,Dja-et-Lobo,Zoetele,Eminevom,3.179167,11.958056,Village,2005,Clinical,Nodule Palpation,55,22,0.4
+1123,CMR,Centre,Haute-Sanaga,Nanga Eboko,Emtse,4.827778,12.283333,Village,,Clinical,Nodule Palpation,33,12,0.364
+1124,CMR,Centre,Nyong-et-Foumou,Akonolinga,Enamgal,3.465,12.056111,Village,2005,Clinical,Nodule Palpation,44,11,0.25
+1125,CMR,Sud,Mvila,Ebolowa,Engong,2.85,10.99,Village,2003,Clinical,Nodule Palpation,35,2,0.057
+1126,CMR,Centre,Nyong-et-Foumou,Akonolinga,Enyeng,3.493889,11.890278,Village,2005,Clinical,Nodule Palpation,33,0,0
+1127,CMR,Est,Haut-Nyong,Abong Mbang,Eschiambor,3.147583,13.773111,Village,2013,Parasitological,Parasitology (Skin Biopsy),137,7,0.051
+1128,CMR,Est,Haut-Nyong,Abong Mbang,Eschiambor,3.147583,13.773111,Village,2013,Clinical,Nodule Palpation,137,10,0.073
+1129,CMR,Sud-Ouest,Manyu,Akwaya,Eshobi,5.779444,9.358333,Village,,Clinical,Nodule Palpation,40,23,0.575
+1130,CMR,Sud,Dja-et-Lobo,Sangmelima,Essamesse,3.020556,12.245556,Village,2005,Clinical,Nodule Palpation,50,10,0.2
+1131,CMR,Est,Lom-et-Djérem,Bertoua,Esselegue,4.802778,13.269444,Village,,Clinical,Nodule Palpation,41,10,0.244
+1132,CMR,Sud-Ouest,Kupe-Muanenguba,Kumba,Etam I,4.72002,9.54519,Village,2012,Parasitological,Parasitology (Skin Biopsy),335,59,0.176
+1133,CMR,Est,Haut-Nyong,Lomie,Etekessan,2.683333,14.008333,Village,,Clinical,Nodule Palpation,20,8,0.4
+1134,CMR,Sud-Ouest,Manyu,Mamfe,Etinkem,5.416667,9.383333,Village,,Clinical,Nodule Palpation,30,20,0.667
+1135,CMR,Sud-Ouest,Manyu,Mamfe,Etoko,5.71533,9.55436,Village,,Parasitological,Parasitology (Skin Biopsy),216,89,0.412
+1136,CMR,Sud,Dja-et-Lobo,Zoetele,Etoto,3.26,11.89,Village,2003,Clinical,Nodule Palpation,31,1,0.032
+1137,CMR,Sud,Dja-et-Lobo,Sangmelima,Evelessi,3.003889,11.860278,Village,2005,Clinical,Nodule Palpation,52,16,0.308
+1138,CMR,Sud,Dja-et-Lobo,Meyomessala,Ewolombam,3.34,12.25,Village,2003,Clinical,Nodule Palpation,27,8,0.296
+1139,CMR,Sud-Ouest,Kupe-Muanenguba,Nguti,Eyandong,5.110556,9.712222,Village,,Clinical,Nodule Palpation,18,15,0.833
+1140,CMR,Sud-Ouest,Manyu,Mamfe,Eyang-Ate,5.439722,9.486667,Village,,Clinical,Nodule Palpation,57,38,0.667
+1141,CMR,Sud,Dja-et-Lobo,Sangmelima,Eyee,2.78,11.86,Village,2003,Clinical,Nodule Palpation,30,0,0
+1142,CMR,Centre,Lekié,Saa,Eyene,4.433889,11.39,Village,,Clinical,Nodule Palpation,40,29,0.725
+1143,CMR,Adamaoua,Vina,Ngaoundere Urbain,Feirde Wa,7.31,13.53,Village,2003,Clinical,Nodule Palpation,41,20,0.488
+1144,CMR,Sud,Dja-et-Lobo,Zoetele,Fibot,3.41,11.89,Village,2003,Clinical,Nodule Palpation,30,0,0
+1145,CMR,Centre,Nyong-et-Foumou,Akonolinga,Fibot,3.589444,12.072222,Village,2005,Clinical,Nodule Palpation,34,3,0.088
+1146,CMR,Extrême-Nord,Mayo-Tsanaga,Mokolo,Fogom(Mbo,10.767222,14.019167,Village,2003,Clinical,Nodule Palpation,50,6,0.12
+1147,CMR,Ouest,Menoua,Dschang,Fokoue,5.366667,10.123611,Village,,Clinical,Nodule Palpation,30,11,0.367
+1148,CMR,Ouest,Menoua,Penka Michel,Folap,5.520278,10.331389,Village,2011,Parasitological,Parasitology (Skin Biopsy),372,0,0
+1149,CMR,Ouest,Noun,Foumban,Folap,5.816667,10.9,Village,,Clinical,Nodule Palpation,30,19,0.633
+1150,CMR,Ouest,Haut-Nkam,Bafang,Fondjanti,5.11833,10.15,Village,2011,Parasitological,Parasitology (Skin Biopsy),154,9,0.058
+1151,CMR,Nord-Ouest,Boyo,Nkambe,Fonfuka,6.534722,10.488889,Village,,Clinical,Nodule Palpation,50,20,0.4
+1152,CMR,Ouest,Ndé,Bangangte,Foptshui,5.016667,10.461111,Village,,Parasitological,Parasitology (Skin Biopsy),117,9,0.077
+1153,CMR,Ouest,Noun,Foumbot,Fossang,5.275833,10.629444,Village,,Parasitological,Parasitology (Skin Biopsy),175,23,0.131
+1154,CMR,Sud-Ouest,Lebialem,Wabane,Fossung,5.592222,9.958333,Village,,Clinical,Nodule Palpation,51,35,0.686
+1155,CMR,Sud-Ouest,Lebialem,Wabane,Foto,5.592222,9.958333,Village,,Clinical,Nodule Palpation,51,7,0.137
+1156,CMR,Adamaoua,Vina,Ngaoundere Urbain,Galdi War,7.1,13.85,Village,,Clinical,Nodule Palpation,30,10,0.333
+1157,CMR,Extrême-Nord,Mayo-Tsanaga,Roua,Galta,10.630833,13.905278,Village,2003,Clinical,Nodule Palpation,31,1,0.032
+1158,CMR,Nord,Mayo-Rey,Tchollire,Gandi,8.383333,14.216667,Village,1993,Clinical,Nodule Palpation,50,35,0.7
+1159,CMR,Nord,Mayo-Rey,Tchollire,Gandi,8.383333,14.216667,Village,,Parasitological,Parasitology (Skin Biopsy),134,44,0.328
+1160,CMR,Adamaoua,Mbéré,Djohong,Gandinang,6.71942,14.44765,Village,,Parasitological,Parasitology (Skin Biopsy),276,0,0
+1161,CMR,Extrême-Nord,Mayo-Sava,Kolofata,Gangoa,11.061667,13.992778,Village,2003,Clinical,Nodule Palpation,50,5,0.1
+1162,CMR,Nord,Mayo-Rey,Rey Bouba,Gangoy,8.816667,14.194444,Village,,Clinical,Nodule Palpation,14,2,0.143
+1163,CMR,Est,Lom-et-Djérem,Betare Oya,Garoua Ya,5.133333,14,Village,2004,Clinical,Nodule Palpation,20,0,0
+1164,CMR,Nord,Bénoué,Pitoa,Gaschiga,9.6,13.626389,Village,2003,Clinical,Nodule Palpation,34,2,0.059
+1165,CMR,Nord,Bénoué,Gaschiga,Gobriyam,9.78,13.33,Village,2003,Clinical,Nodule Palpation,50,1,0.02
+1166,CMR,Nord,Faro,Poli,Gode,8.544444,13.027778,Village,,Clinical,Nodule Palpation,30,6,0.2
+1167,CMR,Nord,Mayo-Rey,Rey Bouba,Godi,8.794444,14.2,Village,,Clinical,Nodule Palpation,40,8,0.2
+1168,CMR,Nord,Bénoué,Garoua Ii,Golombe,9.442222,12.981111,Village,2003,Clinical,Nodule Palpation,28,0,0
+1169,CMR,Nord,Mayo-Louti,Guider,Golombe,9.805556,13.918333,Village,2003,Clinical,Nodule Palpation,31,4,0.129
+1170,CMR,Nord,Mayo-Rey,Rey Bouba,Gor,8.65,14.994444,Village,,Clinical,Nodule Palpation,30,7,0.233
+1171,CMR,Extrême-Nord,Mayo-Tsanaga,Mokolo,Goray,10.71,13.776944,Village,2003,Clinical,Nodule Palpation,45,11,0.244
+1172,CMR,Nord,Mayo-Louti,Guider,Gorom,10.05,13.83,Village,2003,Clinical,Nodule Palpation,37,1,0.027
+1173,CMR,Nord,Bénoué,Bibemi,Gounougou,9.214167,13.867778,Village,2003,Clinical,Nodule Palpation,38,6,0.158
+1174,CMR,Nord,Bénoué,Bibemi,Gounougou,9.066667,13.7,Village,,Clinical,Nodule Palpation,30,3,0.1
+1175,CMR,Extrême-Nord,Mayo-Tsanaga,Koza,Gouzda,10.825833,13.84,Village,2003,Clinical,Nodule Palpation,45,10,0.222
+1176,CMR,Est,Lom-et-Djérem,Bertoua,Goyoum,5.206944,13.380556,Village,2004,Clinical,Nodule Palpation,36,18,0.5
+1177,CMR,Littoral,Moungo,Mbanga,Grand Sou,4.4775,9.7375,Village,2006,Clinical,Nodule Palpation,41,1,0.024
+1178,CMR,Centre,Mbam-et-Inoubou,Bafia,Gueboba,4.583333,11.216667,Village,,Parasitological,Parasitology (Skin Biopsy),176,55,0.313
+1179,CMR,Nord,Faro,Poli,Guede,8.691667,12.808333,Village,,Clinical,Nodule Palpation,30,13,0.433
+1180,CMR,Nord,Bénoué,Gaschiga,Guerete,9.513333,13.203056,Village,2003,Clinical,Nodule Palpation,47,1,0.021
+1181,CMR,Centre,Mbam-et-Inoubou,Bafia,Guessele,4.516666,11.266666,Village,,Parasitological,Parasitology (Skin Biopsy),166,46,0.277
+1182,CMR,Centre,Mbam-et-Inoubou,Bafia,Guientsin,4.635556,11.260833,Village,,Clinical,Nodule Palpation,91,41,0.451
+1183,CMR,Nord,Mayo-Rey,Tchollire,Guirviri,7.4775,14.515833,Village,2003,Clinical,Nodule Palpation,34,0,0
+1184,CMR,Nord,Mayo-Rey,Tchollire,Hankao,7.183333,14.661111,Village,,Clinical,Nodule Palpation,45,31,0.689
+1185,CMR,Nord,Mayo-Louti,Guider,Heri,9.9125,13.946111,Village,2003,Clinical,Nodule Palpation,34,2,0.059
+1186,CMR,Sud,Océan,Kribi,Hevecam/N,2.541667,10.05,Village,,Clinical,Nodule Palpation,31,5,0.161
+1187,CMR,Extrême-Nord,Mayo-Sava,Mora,Homaka,11.332778,14.359722,Village,2003,Clinical,Nodule Palpation,33,1,0.03
+1188,CMR,Nord,Mayo-Rey,Tchollire,Home,8.083333,14.35,Village,1993,Clinical,Nodule Palpation,50,11,0.22
+1189,CMR,Nord,Mayo-Rey,Tchollire,Home,8.083333,14.35,Village,,Parasitological,Parasitology (Skin Biopsy),98,2,0.02
+1190,CMR,Nord,Mayo-Louti,Mayo Oulo,Hossere G,10.019166,13.602498,Village,2003,Clinical,Nodule Palpation,50,1,0.02
+1191,CMR,Adamaoua,Vina,Ngaoundere Urbain,Idool,7.188889,14.108333,Village,,Clinical,Nodule Palpation,30,0,0
+1192,CMR,Sud-Ouest,Fako,Buea,Ikata,4.333333,9.360556,Village,,Clinical,Nodule Palpation,50,30,0.6
+1193,CMR,Sud-Ouest,Meme,Kumba,Ikilliwindi,4.72449,9.48431,Village,2012,Parasitological,Parasitology (Skin Biopsy),298,26,0.087
+1194,CMR,Sud-Ouest,Kupe-Muanenguba,Nguti,Ikondo Ko,5.25,9.466667,Village,2003,Clinical,Nodule Palpation,29,11,0.379
+1195,CMR,Sud-Ouest,Ndian,Mundemba,Illore,4.80334,8.90555,Village,2012,Parasitological,Parasitology (Skin Biopsy),191,0,0
+1196,CMR,Est,Haut-Nyong,Doume,Kabili,4.320833,13.225,Village,,Clinical,Nodule Palpation,44,0,0
+1197,CMR,Est,Haut-Nyong,Messamena,Kagnol,3.333333,12.926944,Village,2004,Clinical,Nodule Palpation,16,4,0.25
+1198,CMR,Nord-Ouest,Donga-Mantung,Ndu,Kakar,6.388889,10.797222,Village,,Clinical,Nodule Palpation,31,4,0.129
+1199,CMR,Adamaoua,Mbéré,Meiganga,Kalaldi,6.3,14.05,Village,2003,Clinical,Nodule Palpation,31,2,0.065
+1200,CMR,Est,Kadey,Batouri,Kamba Mieri,4.242889,13.970972,Village,2013,Parasitological,Parasitology (Skin Biopsy),197,0,0
+1201,CMR,Est,Kadey,Batouri,Kamba Mieri,4.242889,13.970972,Village,2013,Clinical,Nodule Palpation,197,6,0.03
+1202,CMR,Est,Kadey,Batouri,Kamba Mieri,4.242889,13.970972,Village,,Clinical,Nodule Palpation,13,2,0.154
+1203,CMR,Est,Lom-et-Djérem,Bertoua,Kano,4.983333,13.55,Village,2004,Clinical,Nodule Palpation,22,3,0.136
+1204,CMR,Adamaoua,Mbéré,Meiganga,Kap(Nande,6.28,14.15,Village,2003,Clinical,Nodule Palpation,31,12,0.387
+1205,CMR,Nord,Bénoué,Garoua I,Karewa,9.188889,13.561111,Village,,Clinical,Nodule Palpation,16,3,0.188
+1206,CMR,Nord,Faro,Poli,Karine,8.95,12.861111,Village,,Clinical,Nodule Palpation,30,7,0.233
+1207,CMR,Est,Haut-Nyong,Abong Mbang,Kassarafa,3.4,13.566667,Village,2004,Clinical,Nodule Palpation,30,3,0.1
+1208,CMR,Nord,Bénoué,Gaschiga,Katako,9.748333,13.606944,Village,2003,Clinical,Nodule Palpation,46,2,0.043
+1209,CMR,Extrême-Nord,Mayo-Tsanaga,Roua,Katamsa,10.58685,14.00504,Village,2003,Clinical,Nodule Palpation,35,0,0
+1210,CMR,Nord-Ouest,Mezam,Bafut,Kedjom-Ke,6.120833,10.2625,Village,,Clinical,Nodule Palpation,33,7,0.212
+1211,CMR,Sud,Dja-et-Lobo,Meyomessala,Keka,3.105833,12.380278,Village,2005,Clinical,Nodule Palpation,50,10,0.2
+1212,CMR,Littoral,Moungo,Melong,Kekem,5.154167,10.001389,Village,,Clinical,Nodule Palpation,36,21,0.583
+1213,CMR,Centre,Nyong-et-Kéllé,Eseka,Kelle Ndo,3.730556,10.3875,Village,,Clinical,Nodule Palpation,15,3,0.2
+1214,CMR,Sud-Ouest,Manyu,Batibo,Kendem,5.74428,9.71869,Village,,Parasitological,Parasitology (Skin Biopsy),217,47,0.217
+1215,CMR,Sud-Ouest,Manyu,Mamfe,Kendem-Mb,5.7275,9.6925,Village,,Clinical,Nodule Palpation,50,30,0.6
+1216,CMR,Centre,Mbam-et-Inoubou,Bafia,Kiboum II,4.85,10.983333,Village,2011,Parasitological,Parasitology (Skin Biopsy),119,65,0.546
+1217,CMR,Littoral,Sanaga-Maritime,Monatele,Kikot,4.17612,11.02239,Village,2011,Parasitological,Parasitology (Skin Biopsy),124,86,0.694
+1218,CMR,Centre,Mbam-et-Inoubou,Ndikinimeki,Kinding D,4.910833,10.725,Village,,Clinical,Nodule Palpation,42,26,0.619
+1219,CMR,Littoral,Sanaga-Maritime,Edea,Km 11,3.82547,9.95846,Village,2013,Parasitological,Parasitology (Skin Biopsy),174,5,0.029
+1220,CMR,Littoral,Sanaga-Maritime,Edea,Km 11,3.82547,9.95846,Village,2013,Clinical,Nodule Palpation,169,0,0
+1221,CMR,Centre,Nyong-et-Foumou,Nguelemendouka,Kobdombo,4.029306,12.730611,Village,2013,Parasitological,Parasitology (Skin Biopsy),300,1,0.003
+1222,CMR,Centre,Nyong-et-Foumou,Nguelemendouka,Kobdombo,4.029306,12.730611,Village,2013,Clinical,Nodule Palpation,300,1,0.003
+1223,CMR,Adamaoua,Faro-et-Déo,Tignere,Kodjoli,7.4,12.866667,Village,,Clinical,Nodule Palpation,14,9,0.643
+1224,CMR,Nord,Mayo-Rey,Rey Bouba,Koinderi,8.98333,14.46667,Village,2003,Clinical,Nodule Palpation,31,11,0.355
+1225,CMR,Nord,Bénoué,Ngong,Kolere,8.96667,13.116669,Village,2003,Clinical,Nodule Palpation,34,0,0
+1226,CMR,Nord,Faro,Poli,Kolou-Mal,8.538889,12.627778,Village,,Clinical,Nodule Palpation,30,27,0.9
+1227,CMR,Est,Haut-Nyong,Abong Mbang,Komba I,3.866667,13.016667,Village,2004,Clinical,Nodule Palpation,35,3,0.086
+1228,CMR,Sud,Dja-et-Lobo,Sangmelima,Kombe,3.075556,12.176111,Village,2005,Clinical,Nodule Palpation,30,8,0.267
+1229,CMR,Littoral,Moungo,Mbanga,Kombe,4.410556,9.565556,Village,,Clinical,Nodule Palpation,33,7,0.212
+1230,CMR,Nord,Mayo-Rey,Touboro,Kombo,7.6828,14.6581,Village,1993,Clinical,Nodule Palpation,50,19,0.38
+1231,CMR,Nord,Mayo-Rey,Touboro,Kombo,7.6828,14.6581,Village,,Parasitological,Parasitology (Skin Biopsy),76,3,0.039
+1232,CMR,Sud-Ouest,Meme,Mbonge,Kombone Village,4.58283,9.307,Village,,Parasitological,Parasitology (Skin Biopsy),110,50,0.455
+1233,CMR,Nord,Faro,Poli,Komboro,8.716667,12.816667,Village,,Clinical,Nodule Palpation,30,8,0.267
+1234,CMR,Ouest,Bamboutos,Mbouda,Kombou,5.733333,10.183333,Village,,Clinical,Nodule Palpation,30,14,0.467
+1235,CMR,Centre,Nyong-et-Foumou,Akonolinga,Komebong,3.660556,12.164444,Village,2005,Clinical,Nodule Palpation,34,7,0.206
+1236,CMR,Est,Haut-Nyong,Batouri,Konake,4.066667,13.483333,Village,2004,Clinical,Nodule Palpation,50,1,0.02
+1237,CMR,Centre,Mbam-et-Kim,Ntui,Kong,5.633333,11.45,Village,,Clinical,Nodule Palpation,31,14,0.452
+1238,CMR,Est,Kadey,Batouri,Konga,4.35,14.133333,Village,2004,Clinical,Nodule Palpation,21,0,0
+1239,CMR,Est,Haut-Nyong,Abong Mbang,Kongo,3.365278,14.006667,Village,2004,Clinical,Nodule Palpation,30,4,0.133
+1240,CMR,Nord,Mayo-Rey,Rey Bouba,Kongrong,8.758333,14.15,Village,,Clinical,Nodule Palpation,40,5,0.125
+1241,CMR,Adamaoua,Faro-et-Déo,Tignere,Kontcha-B,7.966667,12.233333,Village,,Clinical,Nodule Palpation,34,16,0.471
+1242,CMR,Adamaoua,Mbéré,Meiganga,Koroin,6.57,14.3,Village,2003,Clinical,Nodule Palpation,45,17,0.378
+1243,CMR,Est,Haut-Nyong,Nguelemendouka,Kosmaji,4.5,13.066667,Village,2004,Clinical,Nodule Palpation,30,2,0.067
+1244,CMR,Extrême-Nord,Mayo-Tsanaga,Mokolo,Kossehone,10.721389,13.668611,Village,2003,Clinical,Nodule Palpation,43,0,0
+1245,CMR,Est,Haut-Nyong,Abong Mbang,Kouamb/Nk,3.833333,13.2,Village,2004,Clinical,Nodule Palpation,50,1,0.02
+1246,CMR,Sud,Océan,Lolodorf,Kouampboer,3.41556,10.76686,Village,2013,Parasitological,Parasitology (Skin Biopsy),131,2,0.015
+1247,CMR,Sud,Océan,Lolodorf,Kouampboer,3.41556,10.76686,Village,2013,Clinical,Nodule Palpation,131,2,0.015
+1248,CMR,Extrême-Nord,Mayo-Kani,KAELE,Koubi,10.14178,14.63106,Village,,Clinical,Nodule Palpation,30,0,0
+1249,CMR,Nord,Mayo-Rey,Touboro,Koudini,7.259444,14.685833,Village,2003,Clinical,Nodule Palpation,13,2,0.154
+1250,CMR,Nord,Bénoué,Garoua Ii,Koukomi,9.310833,13.388333,Village,2003,Clinical,Nodule Palpation,35,1,0.029
+1251,CMR,Ouest,Noun,Malentouen,Koula,5.9875,11.154167,Village,,Clinical,Nodule Palpation,30,25,0.833
+1252,CMR,Nord,Bénoué,Garoua Ii,Koulawa,9.410556,12.968333,Village,2003,Clinical,Nodule Palpation,38,0,0
+1253,CMR,Nord,Mayo-Rey,Touboro,Kouman,7.75,15.133333,Village,,Clinical,Nodule Palpation,85,69,0.812
+1254,CMR,Nord,Mayo-Rey,Touboro,Koumane,7.75487,15.13259,Village,1993,Clinical,Nodule Palpation,50,45,0.9
+1255,CMR,Nord,Mayo-Rey,Touboro,Koumane,7.75487,15.13259,Village,,Parasitological,Parasitology (Skin Biopsy),141,1,0.007
+1256,CMR,Sud,Dja-et-Lobo,Meyomessala,Koumesse,3.191667,12.261944,Village,2005,Clinical,Nodule Palpation,44,14,0.318
+1257,CMR,Littoral,Moungo,Yabassi,Kounang,4.437778,9.798889,Village,2006,Clinical,Nodule Palpation,38,7,0.184
+1258,CMR,Est,Lom-et-Djérem,Bertoua,Koundi,4.741667,13.608333,Village,2004,Clinical,Nodule Palpation,38,0,0
+1259,CMR,Sud,Mvila,Mvangan,Koungoulo,2.72,11.76,Village,2003,Clinical,Nodule Palpation,30,1,0.033
+1260,CMR,Ouest,Noun,Foumban,Koupa-Mat,5.7875,10.779167,Village,,Clinical,Nodule Palpation,50,24,0.48
+1261,CMR,Ouest,Noun,Foumbot,Koutaba,5.626389,10.751389,Village,,Clinical,Nodule Palpation,30,20,0.667
+1262,CMR,Centre,Mbam-et-Kim,Ntui,Kpwagan,5.583333,11.633333,Village,,Clinical,Nodule Palpation,32,13,0.406
+1263,CMR,Sud-Ouest,Ndian,Kumba,Kumbe-Bal,4.685833,9.211389,Village,,Clinical,Nodule Palpation,46,38,0.826
+1264,CMR,Ouest,Noun,Mifi,Kwetvu,5.465278,10.579167,Village,,Clinical,Nodule Palpation,30,25,0.833
+1265,CMR,Nord,Mayo-Rey,Tchollire,Laboun,8.35857,14.26978,Village,1993,Clinical,Nodule Palpation,50,22,0.44
+1266,CMR,Nord,Mayo-Rey,Tchollire,Laboun,8.35857,14.26978,Village,,Parasitological,Parasitology (Skin Biopsy),194,5,0.026
+1267,CMR,Adamaoua,Faro-et-Déo,Tignere,Laine Gou,6.991667,12.616667,Village,,Clinical,Nodule Palpation,20,2,0.1
+1268,CMR,Nord,Mayo-Rey,Rey Bouba,Landou,8.48143,14.36232,Village,,Parasitological,Parasitology (Skin Biopsy),128,3,0.023
+1269,CMR,Nord,Mayo-Rey,Rey Bouba,Landou,8.533333,14.35,Village,,Clinical,Nodule Palpation,40,9,0.225
+1270,CMR,Nord,Mayo-Rey,Touboro,Laoninga,7.85,14.916667,Village,1993,Clinical,Nodule Palpation,50,37,0.74
+1271,CMR,Nord,Mayo-Rey,Touboro,Laoninga,7.85,14.916667,Village,,Parasitological,Parasitology (Skin Biopsy),123,15,0.122
+1272,CMR,Nord,Mayo-Rey,Touboro,Laounjoun,7.8,15.416667,Village,,Clinical,Nodule Palpation,67,41,0.612
+1273,CMR,Adamaoua,Vina,Ngaoundere Urbain,Laounpang,7.183333,13.7,Village,,Clinical,Nodule Palpation,30,12,0.4
+1274,CMR,Nord,Mayo-Rey,Rey Bouba,Larki,8.51904,14.02476,Village,1993,Clinical,Nodule Palpation,50,32,0.64
+1275,CMR,Nord,Mayo-Rey,Rey Bouba,Larki,8.51904,14.02476,Village,,Parasitological,Parasitology (Skin Biopsy),184,0,0
+1276,CMR,Nord,Mayo-Rey,Rey Bouba,Larki,8.522222,14.022222,Village,,Clinical,Nodule Palpation,15,5,0.333
+1277,CMR,Nord,Faro,Poli,Laro,8.283333,12.316667,Village,,Clinical,Nodule Palpation,30,24,0.8
+1278,CMR,Extrême-Nord,Mayo-Tsanaga,Mokolo,Ldamtsai,10.761667,13.795278,Village,2003,Clinical,Nodule Palpation,39,21,0.538
+1279,CMR,Centre,Lekié,Cite Verte,Leboth,3.998278,11.413028,Village,2013,Parasitological,Parasitology (Skin Biopsy),254,7,0.028
+1280,CMR,Centre,Lekié,Cite Verte,Leboth,3.998278,11.413028,Village,2013,Clinical,Nodule Palpation,254,4,0.016
+1281,CMR,Sud,Dja-et-Lobo,Lomie,Lele,2.328333,13.653333,Village,2004,Clinical,Nodule Palpation,37,14,0.378
+1282,CMR,Centre,Haute-Sanaga,Akonolinga,Lembe,4.233333,12.3,Village,,Clinical,Nodule Palpation,33,1,0.03
+1283,CMR,Centre,Mbam-et-Kim,Yoko,Lena,5.794444,12.338889,Village,,Clinical,Nodule Palpation,36,7,0.194
+1284,CMR,Nord,Bénoué,Poli,Lenara,8.846111,12.881944,Village,2003,Clinical,Nodule Palpation,50,4,0.08
+1285,CMR,Littoral,Nkam,Yabassi,Lendi,4.292222,9.910278,Village,2006,Clinical,Nodule Palpation,27,3,0.111
+1286,CMR,Nord,Mayo-Rey,Tchollire,Leunda,8,13.583333,Village,,Clinical,Nodule Palpation,26,12,0.462
+1287,CMR,Adamaoua,Faro-et-Déo,Tignere,Libong,7.38931,13.00168,Village,2012,Parasitological,Parasitology (Skin Biopsy),413,5,0.012
+1288,CMR,Extrême-Nord,Mayo-Sava,Mora,Limana,11.233611,14.171667,Village,2003,Clinical,Nodule Palpation,35,2,0.057
+1289,CMR,Centre,Mbam-et-Kim,Ntui,Linte,5.383333,11.688889,Village,,Clinical,Nodule Palpation,33,11,0.333
+1290,CMR,Sud-Ouest,Ndian,Ekondo Titi,Lobe Town,4.5917,9.04011,Village,,Parasitological,Parasitology (Skin Biopsy),237,0,0
+1291,CMR,Sud-Ouest,Kupe-Muanenguba,Nguti,Loe/Funge,5.2,9.533333,Village,2003,Clinical,Nodule Palpation,30,17,0.567
+1292,CMR,Littoral,Nkam,Yabassi,Logbessou,4.227222,9.997222,Village,2006,Clinical,Nodule Palpation,22,0,0
+1293,CMR,Adamaoua,Mbéré,Meiganga,Lokoti,6.3816,14.31912,Village,,Parasitological,Parasitology (Skin Biopsy),333,0,0
+1294,CMR,Adamaoua,Mbéré,Meiganga,Lokoti,6.375,14.325,Village,,Clinical,Nodule Palpation,43,10,0.233
+1295,CMR,Nord,Mayo-Louti,Mayo Oulo,Lominguel,9.9,13.75,Village,2003,Clinical,Nodule Palpation,50,3,0.06
+1296,CMR,Sud-Ouest,Meme,Mbanga,Long Street Banga,4.40492,9.44155,Village,,Parasitological,Parasitology (Skin Biopsy),323,13,0.04
+1297,CMR,Est,Lom-et-Djérem,Bertoua,Longa Mal,4.625556,13.74,Village,2004,Clinical,Nodule Palpation,31,3,0.097
+1298,CMR,Littoral,Nkam,Yabassi,Longtoka,4.43471,9.97214,Village,,Parasitological,Parasitology (Skin Biopsy),162,60,0.37
+1299,CMR,Adamaoua,Faro-et-Déo,Tignere,Lougere B,7.5,12.386111,Village,,Clinical,Nodule Palpation,39,16,0.41
+1300,CMR,Nord,Bénoué,Garoua I,Lougoude,9.124722,13.199167,Village,2003,Clinical,Nodule Palpation,42,1,0.024
+1301,CMR,Nord,Faro,Poli,Lowol,8.516667,12.566667,Village,,Clinical,Nodule Palpation,30,4,0.133
+1302,CMR,Sud,Mvila,Mvangan,Ma'amezam,2.780556,11.186111,Village,,Clinical,Nodule Palpation,29,0,0
+1303,CMR,Sud-Ouest,Meme,Mbonge,Mabonji,4.562778,9.1975,Village,,Clinical,Nodule Palpation,52,22,0.423
+1304,CMR,Extrême-Nord,Mayo-Sava,Mora,Mada Colc,10.925,14.141111,Village,2003,Clinical,Nodule Palpation,35,0,0
+1305,CMR,Est,Haut-Nyong,Doume,Madouma,4.207222,13.258333,Village,2004,Clinical,Nodule Palpation,50,1,0.02
+1306,CMR,Ouest,Noun,Malentouen,Magba,5.975,11.236111,Village,,Clinical,Nodule Palpation,30,14,0.467
+1307,CMR,Littoral,Nkam,Mbangue,Mahohi/Nk,4.275,9.933611,Village,2006,Clinical,Nodule Palpation,10,4,0.4
+1308,CMR,Extrême-Nord,Mayo-Sava,Mora,Mahola,11.050278,14.223611,Village,2003,Clinical,Nodule Palpation,38,2,0.053
+1309,CMR,Nord,Mayo-Rey,Tchollire,Mairom,8.666667,15.05,Village,,Clinical,Nodule Palpation,30,2,0.067
+1310,CMR,Est,Haut-Nyong,Messamena,Makak,3.416667,12.666667,Village,2004,Clinical,Nodule Palpation,29,12,0.414
+1311,CMR,Littoral,Sanaga-Maritime,Ngog Mapubi,Makak Ndo,3.875,10.630278,Village,,Clinical,Nodule Palpation,21,6,0.286
+1312,CMR,Extrême-Nord,Diamaré,Maroua 2,Makilinga,10.869722,14.238611,Village,2003,Clinical,Nodule Palpation,30,0,0
+1313,CMR,Sud,Océan,Kribi,Makoure,3.05157,10.13645,Village,2013,Parasitological,Parasitology (Skin Biopsy),244,12,0.049
+1314,CMR,Sud,Océan,Kribi,Makoure,3.05157,10.13645,Village,2013,Clinical,Nodule Palpation,244,6,0.025
+1315,CMR,Ouest,Noun,Kouoptamo,Makowchic,5.005556,10.909722,Village,,Clinical,Nodule Palpation,30,29,0.967
+1316,CMR,Extrême-Nord,Diamaré,Pette,Malam Man,10.869167,14.5525,Village,2003,Clinical,Nodule Palpation,35,0,0
+1317,CMR,Extrême-Nord,Diamaré,Pette,Malam Pet,10.823889,14.441944,Village,2003,Clinical,Nodule Palpation,35,2,0.057
+1318,CMR,Ouest,Noun,Foumbot,Malanden,5.429167,10.833333,Village,,Clinical,Nodule Palpation,30,18,0.6
+1319,CMR,Est,Haut-Nyong,Abong Mbang,Malene,3.601944,13.725,Village,2004,Clinical,Nodule Palpation,50,1,0.02
+1320,CMR,Nord,Faro,Poli,Malkoga,8.383333,12.35,Village,,Clinical,Nodule Palpation,30,8,0.267
+1321,CMR,Ouest,Noun,Kouoptamo,Maloa,5.244444,10.834722,Village,,Clinical,Nodule Palpation,30,24,0.8
+1322,CMR,Est,Boumba-et-Ngoko,Moloundou,Mambele,2.413889,15.4,Village,,Clinical,Nodule Palpation,18,0,0
+1323,CMR,Ouest,Noun,Ntui,Mambichan,5.843056,11.231944,Village,,Clinical,Nodule Palpation,30,19,0.633
+1324,CMR,Est,Haut-Nyong,Doume,Mampang,4,13.18,Village,2004,Clinical,Nodule Palpation,50,5,0.1
+1325,CMR,Extrême-Nord,Mayo-Tsanaga,Roua,Mamsour,10.565556,13.905278,Village,2003,Clinical,Nodule Palpation,31,2,0.065
+1326,CMR,Littoral,Nkam,Yabassi,Mandjab,4.251389,9.995556,Village,2006,Clinical,Nodule Palpation,35,4,0.114
+1327,CMR,Est,Lom-et-Djérem,Bertoua,Mandjou,4.583333,13.45,Village,2004,Clinical,Nodule Palpation,33,0,0
+1328,CMR,Centre,Haute-Sanaga,Nanga Eboko,Mandjouk,4.966667,12.95,Village,,Clinical,Nodule Palpation,51,33,0.647
+1329,CMR,Extrême-Nord,Mayo-Tsanaga,Koza,Mandoussa,10.923056,13.831944,Village,2003,Clinical,Nodule Palpation,30,1,0.033
+1330,CMR,Littoral,Moungo,Bangem,Manengole,4.875,9.859722,Village,,Clinical,Nodule Palpation,37,22,0.595
+1331,CMR,Littoral,Moungo,Bangem,Manengote,4.816667,9.805278,Village,,Clinical,Nodule Palpation,36,20,0.556
+1332,CMR,Est,Haut-Nyong,Abong Mbang,Mang,3.333333,14.033333,Village,2004,Clinical,Nodule Palpation,30,1,0.033
+1333,CMR,Littoral,Nkam,Yabassi,Mangamba,4.490556,9.922222,Village,2006,Clinical,Nodule Palpation,38,7,0.184
+1334,CMR,Adamaoua,Vina,Ngaoundere Rural,Mangari,7.17,13.18,Village,2003,Clinical,Nodule Palpation,30,3,0.1
+1335,CMR,Extrême-Nord,Mayo-Sava,Pette,Mangave A,10.991389,14.370278,Village,2003,Clinical,Nodule Palpation,33,0,0
+1336,CMR,Centre,Mbam-et-Kim,Ntui,Mangay,5.196944,12.158333,Village,,Clinical,Nodule Palpation,40,4,0.1
+1337,CMR,Ouest,Noun,Massangam,Mankakoum,5.331944,11.040278,Village,,Clinical,Nodule Palpation,30,30,1
+1338,CMR,Ouest,Noun,Foumban,Manki I,5.823611,11.018056,Village,,Clinical,Nodule Palpation,30,19,0.633
+1339,CMR,Ouest,Noun,Malentouen,Manki II,5.85,11.1,Village,,Clinical,Nodule Palpation,30,27,0.9
+1340,CMR,Centre,Mbam-et-Kim,Ntui,Mankim,5.019444,12.008333,Village,,Clinical,Nodule Palpation,30,4,0.133
+1341,CMR,Est,Lom-et-Djérem,Bertoua,Mansa,5.1,13.516667,Village,2004,Clinical,Nodule Palpation,26,3,0.115
+1342,CMR,Ouest,Noun,Kouoptamo,Mansen,5.077778,10.879167,Village,,Clinical,Nodule Palpation,30,17,0.567
+1343,CMR,Ouest,Noun,Malentouen,Mantoum,5.643056,11.148611,Village,,Clinical,Nodule Palpation,40,35,0.875
+1344,CMR,Extrême-Nord,Mayo-Tsanaga,Mokolo,Mapol Dou,10.790833,13.839444,Village,2003,Clinical,Nodule Palpation,46,28,0.609
+1345,CMR,Ouest,Noun,Ntui,Mapou,5.755556,11.259722,Village,,Clinical,Nodule Palpation,30,25,0.833
+1346,CMR,Nord,Mayo-Rey,Rey Bouba,Maradi,8.511111,14.155556,Village,,Clinical,Nodule Palpation,30,3,0.1
+1347,CMR,Littoral,Sanaga-Maritime,Edea,Mariemberg,3.622222,9.8625,Village,2013,Parasitological,Parasitology (Skin Biopsy),89,3,0.034
+1348,CMR,Littoral,Sanaga-Maritime,Edea,Mariemberg,3.622222,9.8625,Village,2013,Clinical,Nodule Palpation,87,5,0.057
+1349,CMR,Adamaoua,Vina,Ngaoundere Rural,Martap,6.895742,13.049029,Village,2003,Clinical,Nodule Palpation,50,5,0.1
+1350,CMR,Ouest,Noun,Bandjoun,Masen,5.351667,10.568333,Village,,Parasitological,Parasitology (Skin Biopsy),192,5,0.026
+1351,CMR,Ouest,Noun,Massangam,Massagam,5.423611,11,Village,,Clinical,Nodule Palpation,50,33,0.66
+1352,CMR,Littoral,Sanaga-Maritime,Ngambe,Massok,4.130556,10.469444,Village,,Clinical,Nodule Palpation,39,26,0.667
+1353,CMR,Littoral,Nkam,Yabassi,Massoumbou Carrefour,4.199167,10.0075,Village,2006,Clinical,Nodule Palpation,31,1,0.032
+1354,CMR,Littoral,Nkam,Yabassi,Massoumbou Chantier,4.309167,9.994444,Village,2006,Clinical,Nodule Palpation,31,12,0.387
+1355,CMR,Ouest,Noun,Malentouen,Matachoum,5.751389,11.186111,Village,,Clinical,Nodule Palpation,43,25,0.581
+1356,CMR,Extrême-Nord,Mayo-Tsanaga,Koza,Matamaya,10.869722,13.929722,Village,2003,Clinical,Nodule Palpation,31,3,0.097
+1357,CMR,Ouest,Hauts-Plateaux,Baham,Matoupou,5.298056,10.361111,Village,2011,Parasitological,Parasitology (Skin Biopsy),171,13,0.076
+1358,CMR,Ouest,Hauts-Plateaux,Malentouen,Matoupou,5.298056,10.361111,Village,,Clinical,Nodule Palpation,30,17,0.567
+1359,CMR,Nord,Mayo-Louti,Bourha,Matra,10.07,13.38,Village,2003,Clinical,Nodule Palpation,50,1,0.02
+1360,CMR,Centre,Mbam-et-Kim,Yoko,Matsari,5.358333,12.238889,Village,,Clinical,Nodule Palpation,34,4,0.118
+1361,CMR,Ouest,Noun,Malentouen,Mawa,5.825,11.198611,Village,,Clinical,Nodule Palpation,30,14,0.467
+1362,CMR,Extrême-Nord,Mayo-Tsanaga,Koza,Mawa (K),10.942222,13.909444,Village,2003,Clinical,Nodule Palpation,35,0,0
+1363,CMR,Est,Lom-et-Djérem,Betare Oya,Mayang I,5.966667,13.633333,Village,2004,Clinical,Nodule Palpation,50,0,0
+1364,CMR,Adamaoua,Djérem,Tibati,Mayo-Daa,6.32,12.19,Village,2003,Clinical,Nodule Palpation,34,7,0.206
+1365,CMR,Adamaoua,Mayo-Banyo,Bankim,Mayo-Ding,6.395833,11.583333,Village,,Clinical,Nodule Palpation,30,13,0.433
+1366,CMR,Adamaoua,Vina,Ngaoundere Urbain,Mayo Beli,6.983333,14.05,Village,,Clinical,Nodule Palpation,16,0,0
+1367,CMR,Adamaoua,Mayo-Banyo,Bankim,Mayo Darl,6.5,11.55,Village,,Clinical,Nodule Palpation,19,0,0
+1368,CMR,Adamaoua,Faro-et-Déo,Tignere,Mayo Djar,7.22,12.38,Village,2003,Clinical,Nodule Palpation,30,1,0.033
+1369,CMR,Nord,Mayo-Rey,Rey Bouba,Mayo Djoi,9.047222,14.441667,Village,,Clinical,Nodule Palpation,40,4,0.1
+1370,CMR,Nord,Mayo-Rey,Tchollire,Mayo Galke,8.383333,14.233333,Village,1993,Clinical,Nodule Palpation,50,30,0.6
+1371,CMR,Nord,Mayo-Rey,Tchollire,Mayo Galke,8.383333,14.233333,Village,,Parasitological,Parasitology (Skin Biopsy),155,0,0
+1372,CMR,Adamaoua,Faro-et-Déo,Tignere,Mayo Kaou,7.691667,12.208333,Village,,Clinical,Nodule Palpation,23,14,0.609
+1373,CMR,Nord,Mayo-Louti,Figuil,Mayo Kora,9.800278,13.966944,Village,2003,Clinical,Nodule Palpation,36,9,0.25
+1374,CMR,Extrême-Nord,Mayo-Tsanaga,Mokolo,Mayo Sang,10.737222,13.743611,Village,2003,Clinical,Nodule Palpation,41,5,0.122
+1375,CMR,Extrême-Nord,Mayo-Tsanaga,Koza,Mazi (Mas,10.879444,13.851111,Village,2003,Clinical,Nodule Palpation,36,2,0.056
+1376,CMR,Ouest,Haut-Nkam,Bafang,Mbafam,5.1,10.040556,Village,2011,Parasitological,Parasitology (Skin Biopsy),183,7,0.038
+1377,CMR,Nord,Mayo-Rey,Touboro,Mbailara,7.77248,15.2711,Village,1993,Clinical,Nodule Palpation,50,46,0.92
+1378,CMR,Nord,Mayo-Rey,Touboro,Mbailara,7.77248,15.2711,Village,,Parasitological,Parasitology (Skin Biopsy),143,7,0.049
+1379,CMR,Nord,Mayo-Rey,Touboro,Mbakana,8.066667,15.166667,Village,,Clinical,Nodule Palpation,69,45,0.652
+1380,CMR,Adamaoua,Djérem,Ngaoundal,Mbakaou,6.3,12.808333,Village,,Clinical,Nodule Palpation,52,27,0.519
+1381,CMR,Nord,Mayo-Rey,Touboro,Mbalainde,7.788889,15.466667,Village,,Clinical,Nodule Palpation,76,67,0.882
+1382,CMR,Adamaoua,Vina,Ngaoundere Urbain,Mbalang,7.3,13.566667,Village,,Clinical,Nodule Palpation,30,2,0.067
+1383,CMR,Extrême-Nord,Diamaré,Tokombere,Mbalda(Mb,10.727222,14.043889,Village,2003,Clinical,Nodule Palpation,30,2,0.067
+1384,CMR,Est,Haut-Nyong,Doume,Mbama,4.25,13.433333,Village,2004,Clinical,Nodule Palpation,30,1,0.033
+1385,CMR,Est,Haut-Nyong,Abong Mbang,Mbama,3.976306,12.761361,Village,2013,Parasitological,Parasitology (Skin Biopsy),141,3,0.021
+1386,CMR,Est,Haut-Nyong,Abong Mbang,Mbama,3.976306,12.761361,Village,2013,Clinical,Nodule Palpation,141,3,0.021
+1387,CMR,Centre,Nyong-et-So'o,Mbalmayo,Mbametet,3.427778,11.772222,Village,,Clinical,Nodule Palpation,14,0,0
+1388,CMR,Adamaoua,Mayo-Banyo,Banyo,Mbamti Dj,6.983333,11.966667,Village,,Clinical,Nodule Palpation,22,0,0
+1389,CMR,Est,Haut-Nyong,Doume,Mbang,4.502778,13.334444,Village,2004,Clinical,Nodule Palpation,28,4,0.143
+1390,CMR,Nord,Mayo-Rey,Tchollire,Mbang Rey,7.175833,14.628333,Village,2003,Clinical,Nodule Palpation,33,11,0.333
+1391,CMR,Est,Boumba-et-Ngoko,Yokadouma,Mbangue,3.011056,15.129528,Village,2013,Parasitological,Parasitology (Skin Biopsy),131,0,0
+1392,CMR,Est,Boumba-et-Ngoko,Yokadouma,Mbangue,3.011056,15.129528,Village,2013,Clinical,Nodule Palpation,131,2,0.015
+1393,CMR,Littoral,Nkam,Yabassi,Mbangu?,4.2475,9.995278,Village,2006,Clinical,Nodule Palpation,30,2,0.067
+1394,CMR,Adamaoua,Mbéré,Djohong,Mbarang,6.69288,14.34561,Village,,Parasitological,Parasitology (Skin Biopsy),329,0,0
+1395,CMR,Centre,Haute-Sanaga,Nanga Eboko,Mbargue,4.916667,13.083333,Village,,Clinical,Nodule Palpation,27,14,0.519
+1396,CMR,Est,Lom-et-Djérem,Garoua Boulai,Mbassi,5.616667,14.366667,Village,2004,Clinical,Nodule Palpation,35,4,0.114
+1397,CMR,Centre,Nyong-et-Foumou,Meyomessala,Mbedoumou,3.589722,12.178056,Village,2005,Clinical,Nodule Palpation,36,11,0.306
+1398,CMR,Centre,Nyong-et-Foumou,Akonolinga,Mbega,3.80225,12.400389,Village,2013,Parasitological,Parasitology (Skin Biopsy),142,1,0.007
+1399,CMR,Centre,Nyong-et-Foumou,Akonolinga,Mbega,3.80225,12.400389,Village,2013,Clinical,Nodule Palpation,142,0,0
+1400,CMR,Centre,Nyong-et-So'o,Mbalmayo,Mbega,3.533333,11.65,Village,,Clinical,Nodule Palpation,41,1,0.024
+1401,CMR,Nord,Mayo-Rey,Tchollire,Mbeing,7.87413,14.89005,Village,1993,Clinical,Nodule Palpation,50,38,0.76
+1402,CMR,Nord,Mayo-Rey,Tchollire,Mbeing,7.87413,14.89005,Village,,Parasitological,Parasitology (Skin Biopsy),161,3,0.019
+1403,CMR,Nord,Bénoué,Bibemi,Mbella,9.333333,13.866667,Village,,Clinical,Nodule Palpation,40,4,0.1
+1404,CMR,Adamaoua,Djérem,Ngaoundal,Mbelle As,6.608333,12.991667,Village,,Clinical,Nodule Palpation,35,3,0.086
+1405,CMR,Nord,Mayo-Rey,Touboro,Mbem,7.70991,14.63544,Village,1993,Clinical,Nodule Palpation,50,13,0.26
+1406,CMR,Nord,Mayo-Rey,Touboro,Mbem,7.70991,14.63544,Village,,Parasitological,Parasitology (Skin Biopsy),101,2,0.02
+1407,CMR,Centre,Lekié,Saa,Mbenega,4.463056,11.358056,Village,,Clinical,Nodule Palpation,40,28,0.7
+1408,CMR,Adamaoua,Vina,Ngaoundere Rural,Mberem,7.55,13.916667,Village,,Clinical,Nodule Palpation,30,24,0.8
+1409,CMR,Est,Lom-et-Djérem,Bertoua,Mbeth II,4.555556,13.466667,Village,,Clinical,Nodule Palpation,33,1,0.03
+1410,CMR,Est,Lom-et-Djérem,Bertoua,Mbethen,4.777778,13.527778,Village,,Clinical,Nodule Palpation,37,7,0.189
+1411,CMR,Est,Lom-et-Djérem,Bertoua,Mbethen I,4.775,13.527778,Village,2004,Clinical,Nodule Palpation,32,0,0
+1412,CMR,Adamaoua,Vina,Ngaoundere Urbain,Mbi-Djoro,7.38,13.57,Village,2003,Clinical,Nodule Palpation,42,5,0.119
+1413,CMR,Adamaoua,Vina,Ngaoundere Rural,Mbideng,7.13,12.9,Village,2003,Clinical,Nodule Palpation,31,2,0.065
+1414,CMR,Nord,Mayo-Rey,Touboro,Mbidere,7.683333,15.366667,Village,,Clinical,Nodule Palpation,71,63,0.887
+1415,CMR,Adamaoua,Mbéré,Djohong,Mbidou,6.62,14.87,Village,2003,Clinical,Nodule Palpation,40,9,0.225
+1416,CMR,Nord,Mayo-Rey,Rey Bouba,Mbiem,8.7,14.716667,Village,,Clinical,Nodule Palpation,30,8,0.267
+1417,CMR,Nord,Mayo-Rey,Touboro,Mbikouni,7.488889,15.388889,Village,,Clinical,Nodule Palpation,66,54,0.818
+1418,CMR,Nord,Mayo-Rey,Rey Bouba,Mbila,8.644444,14.294444,Village,,Clinical,Nodule Palpation,40,10,0.25
+1419,CMR,Nord,Mayo-Rey,Tchollire,Mbilare,8.416667,14.183333,Village,,Clinical,Nodule Palpation,25,8,0.32
+1420,CMR,Est,Kadey,Ndelele,Mbile,4.32575,14.841111,Village,2013,Parasitological,Parasitology (Skin Biopsy),225,0,0
+1421,CMR,Est,Kadey,Ndelele,Mbile,4.32575,14.841111,Village,2013,Clinical,Nodule Palpation,225,8,0.036
+1422,CMR,Est,Kadey,Ndelele,Mbile,4.319444,14.847222,Village,,Clinical,Nodule Palpation,7,2,0.286
+1423,CMR,Sud,Dja-et-Lobo,Sangmelima,Mbilemvom,2.65,12.15,Village,2003,Clinical,Nodule Palpation,47,0,0
+1424,CMR,Sud,Dja-et-Lobo,Sangmelima,Mbilemvom,2.574722,12.415,Village,2005,Clinical,Nodule Palpation,38,9,0.237
+1425,CMR,Nord,Mayo-Rey,Touboro,Mbodo,7.583333,15.366667,Village,,Clinical,Nodule Palpation,78,65,0.833
+1426,CMR,Sud-Ouest,Kupe-Muanenguba,Nguti,Mboka,5.297778,9.425,Village,,Clinical,Nodule Palpation,28,19,0.679
+1427,CMR,Extrême-Nord,Mayo-Tsanaga,Mokolo,Mbokomgui,10.720278,13.93,Village,2003,Clinical,Nodule Palpation,40,9,0.225
+1428,CMR,Est,Haut-Nyong,Nguelemendouka,Mbomba,4.05,12.883333,Village,2004,Clinical,Nodule Palpation,29,0,0
+1429,CMR,Littoral,Sanaga-Maritime,New Bell,Mbongo II,3.88119,9.82696,Village,2013,Parasitological,Parasitology (Skin Biopsy),243,7,0.029
+1430,CMR,Littoral,Sanaga-Maritime,New Bell,Mbongo II,3.88119,9.82696,Village,2013,Clinical,Nodule Palpation,232,3,0.013
+1431,CMR,Littoral,Moungo,Mbanga,Mbonjo,4.415556,9.634167,Village,2006,Clinical,Nodule Palpation,22,1,0.045
+1432,CMR,Littoral,Moungo,Tiko,Mbonjo I,4.2225,9.552222,Village,,Clinical,Nodule Palpation,47,8,0.17
+1433,CMR,Nord,Mayo-Rey,Tchollire,Mboukma,8.522222,14.977778,Village,,Clinical,Nodule Palpation,23,4,0.174
+1434,CMR,Est,Haut-Nyong,Abong Mbang,Mbouma,2.993611,13.319444,Village,2005,Clinical,Nodule Palpation,37,23,0.622
+1435,CMR,Est,Haut-Nyong,Messamena,Meba,3.613333,12.816667,Village,2004,Clinical,Nodule Palpation,34,1,0.029
+1436,CMR,Centre,Haute-Sanaga,Nanga Eboko,Meba,4.6,12.966667,Village,,Clinical,Nodule Palpation,10,2,0.2
+1437,CMR,Sud,Dja-et-Lobo,Djoum,Meban I,2.584444,12.787222,Village,2005,Clinical,Nodule Palpation,33,7,0.212
+1438,CMR,Sud,Dja-et-Lobo,Zoetele,Mebang,3.34143,11.966,Village,2005,Clinical,Nodule Palpation,49,7,0.143
+1439,CMR,Sud,Dja-et-Lobo,Sangmelima,Mebassa,2.669444,12.430556,Village,2005,Clinical,Nodule Palpation,30,2,0.067
+1440,CMR,Sud,Dja-et-Lobo,Meyomessala,Mebomo,3.44,12.27,Village,2003,Clinical,Nodule Palpation,30,2,0.067
+1441,CMR,Sud,Mvila,Djoum,Mebosso,2.31,11.87,Village,2003,Clinical,Nodule Palpation,35,0,0
+1442,CMR,Nord,Mayo-Rey,Tchollire,Medeo,7.3,14.42,Village,2003,Clinical,Nodule Palpation,50,1,0.02
+1443,CMR,Centre,Mbam-et-Kim,Yoko,Medjang M,5.363889,12.430556,Village,,Clinical,Nodule Palpation,11,3,0.273
+1444,CMR,Centre,Nyong-et-Foumou,Akonolinga,Medjap,3.609722,12.015278,Village,2005,Clinical,Nodule Palpation,45,24,0.533
+1445,CMR,Centre,Nyong-et-Foumou,Meyomessala,Medjap,3.384056,12.127556,Village,2013,Parasitological,Parasitology (Skin Biopsy),144,1,0.007
+1446,CMR,Centre,Nyong-et-Foumou,Meyomessala,Medjap,3.384056,12.127556,Village,2013,Clinical,Nodule Palpation,144,1,0.007
+1447,CMR,Est,Haut-Nyong,Abong Mbang,Medjoh,3.465361,13.462778,Village,2013,Parasitological,Parasitology (Skin Biopsy),214,17,0.079
+1448,CMR,Est,Haut-Nyong,Abong Mbang,Medjoh,3.465361,13.462778,Village,2013,Clinical,Nodule Palpation,214,13,0.061
+1449,CMR,Sud,Mvila,Ebolowa,Mefo,2.805556,10.816667,Village,,Clinical,Nodule Palpation,31,1,0.032
+1450,CMR,Sud,Vallée-du-Ntem,Olamze,Mefoup,2.23,11.34,Village,2003,Clinical,Nodule Palpation,35,9,0.257
+1451,CMR,Sud,Vallée-du-Ntem,Ebolowa,Mefoup,2.708333,11.061111,Village,,Clinical,Nodule Palpation,26,6,0.231
+1452,CMR,Centre,Mbam-et-Kim,Yoko,Megang,5.483333,12.383333,Village,,Clinical,Nodule Palpation,36,15,0.417
+1453,CMR,Adamaoua,Mbéré,Meiganga,Meidougou,6.416667,14.216667,Village,,Clinical,Nodule Palpation,43,10,0.233
+1454,CMR,Sud,Vallée-du-Ntem,Olamze,Meka'a Mi,2.225,10.95,Village,,Clinical,Nodule Palpation,36,15,0.417
+1455,CMR,Sud,Dja-et-Lobo,Meyomessala,Mekak,3.329167,12.246944,Village,2005,Clinical,Nodule Palpation,43,10,0.233
+1456,CMR,Sud,Dja-et-Lobo,Sangmelima,Mekam,3.035556,12.111111,Village,2005,Clinical,Nodule Palpation,30,10,0.333
+1457,CMR,Sud,Dja-et-Lobo,Meyomessala,Mekas,3.17,12.52,Village,2003,Clinical,Nodule Palpation,43,17,0.395
+1458,CMR,Sud,Dja-et-Lobo,Meyomessala,Mekin,3.25,12.4,Village,2003,Clinical,Nodule Palpation,30,14,0.467
+1459,CMR,Sud,Vallée-du-Ntem,Olamze,Meko'ossi,2.216667,11.116667,Village,,Clinical,Nodule Palpation,28,1,0.036
+1460,CMR,Sud,Vallée-du-Ntem,Olamze,Meko?Meng,2.25,11.17,Village,2003,Clinical,Nodule Palpation,30,2,0.067
+1461,CMR,Centre,Haute-Sanaga,Mbandjock,Mekomba,4.319444,11.872222,Village,,Clinical,Nodule Palpation,33,27,0.818
+1462,CMR,Sud,Mvila,Ebolowa,Mekomo,2.633333,11.338889,Village,,Clinical,Nodule Palpation,43,0,0
+1463,CMR,Centre,Haute-Sanaga,Nanga Eboko,Mekone I,4.866667,12.883333,Village,,Clinical,Nodule Palpation,50,10,0.2
+1464,CMR,Sud,Dja-et-Lobo,Djoum,Mekotto,2.790278,13.129167,Village,2005,Clinical,Nodule Palpation,47,28,0.596
+1465,CMR,Centre,Nyong-et-Foumou,Ayos,Melan,4.143972,12.491417,Village,2013,Parasitological,Parasitology (Skin Biopsy),254,6,0.024
+1466,CMR,Centre,Nyong-et-Foumou,Ayos,Melan,4.143972,12.491417,Village,2013,Clinical,Nodule Palpation,254,1,0.004
+1467,CMR,Sud,Océan,Kribi,Melangue,3.13,10.25,Village,2003,Clinical,Nodule Palpation,30,0,0
+1468,CMR,Nord,Mayo-Louti,Guider,Melemlem,10.15,13.97,Village,2003,Clinical,Nodule Palpation,30,0,0
+1469,CMR,Est,Haut-Nyong,Abong Mbang,Melen,2.903056,13.204167,Village,2005,Clinical,Nodule Palpation,36,22,0.611
+1470,CMR,Est,Haut-Nyong,Abong Mbang,Melene,3.15,13.8,Village,2004,Clinical,Nodule Palpation,26,1,0.038
+1471,CMR,Extrême-Nord,Mayo-Tsanaga,Mokolo,Mendeze D,10.754444,13.824444,Village,2003,Clinical,Nodule Palpation,30,7,0.233
+1472,CMR,Est,Haut-Nyong,Nguelemendouka,Mendjime,4.316667,13.05,Village,2004,Clinical,Nodule Palpation,29,0,0
+1473,CMR,Sud,Vallée-du-Ntem,Ebolowa,Mendjimi,2.5,11.31,Village,2003,Clinical,Nodule Palpation,41,2,0.049
+1474,CMR,Centre,Haute-Sanaga,Mbandjock,Mendjoui,4.538889,12.166667,Village,,Clinical,Nodule Palpation,30,16,0.533
+1475,CMR,Centre,Haute-Sanaga,Nanga Eboko,Menga'a,4.427778,12.711111,Village,,Clinical,Nodule Palpation,51,8,0.157
+1476,CMR,Centre,Nyong-et-Foumou,Akonolinga,Mengang,3.883333,12.066667,Village,,Clinical,Nodule Palpation,31,0,0
+1477,CMR,Sud,Dja-et-Lobo,Sangmelima,Mengue,3.023889,12.129722,Village,2005,Clinical,Nodule Palpation,39,9,0.231
+1478,CMR,Sud-Ouest,Lebialem,Fontem,Menji,5.458333,9.886944,Village,,Clinical,Nodule Palpation,50,12,0.24
+1479,CMR,Sud,Mvila,Ebolowa,Messambe,2.975,10.691667,Village,,Clinical,Nodule Palpation,5,0,0
+1480,CMR,Sud,Mvila,Ebolowa,Messambe,2.816667,11.616667,Village,,Clinical,Nodule Palpation,24,0,0
+1481,CMR,Est,Haut-Nyong,Abong Mbang,Messamena,3.866667,13.3,Village,2004,Clinical,Nodule Palpation,27,3,0.111
+1482,CMR,Sud,Dja-et-Lobo,Meyomessala,Messok,3.045278,12.458611,Village,2005,Clinical,Nodule Palpation,48,18,0.375
+1483,CMR,Sud,Dja-et-Lobo,Zoetele,Messok,3.29,11.889722,Village,2005,Clinical,Nodule Palpation,37,3,0.081
+1484,CMR,Extrême-Nord,Mayo-Tsanaga,Roua,Metchelte,10.672222,13.994722,Village,2003,Clinical,Nodule Palpation,39,6,0.154
+1485,CMR,Centre,Mbam-et-Kim,Ntui,Metshing,4.841667,11.972222,Village,,Clinical,Nodule Palpation,22,3,0.136
+1486,CMR,Centre,Haute-Sanaga,Nanga Eboko,Meyak,4.808333,12.95,Village,,Clinical,Nodule Palpation,53,11,0.208
+1487,CMR,Sud,Vallée-du-Ntem,Olamze,Meyo Bibo,2.2,10.99,Village,2003,Clinical,Nodule Palpation,48,0,0
+1488,CMR,Sud,Vallée-du-Ntem,Ambam,Meyo Elie,2.42,11.25,Village,2003,Clinical,Nodule Palpation,29,0,0
+1489,CMR,Sud,Vallée-du-Ntem,Olamze,Meyo Nkou,2.27,11.34,Village,2003,Clinical,Nodule Palpation,25,2,0.08
+1490,CMR,Sud,Vallée-du-Ntem,Olamze,Meyo Nyak,2.31,11.3,Village,2003,Clinical,Nodule Palpation,28,0,0
+1491,CMR,Sud,Dja-et-Lobo,Djoum,Meyomadjo,2.853889,12.761667,Village,2005,Clinical,Nodule Palpation,48,9,0.188
+1492,CMR,Sud,Dja-et-Lobo,Sangmelima,Meyomessi,2.901667,12.318611,Village,2005,Clinical,Nodule Palpation,56,18,0.321
+1493,CMR,Sud,Dja-et-Lobo,Sangmelima,Meyos,3.010278,11.779167,Village,2005,Clinical,Nodule Palpation,55,17,0.309
+1494,CMR,Sud,Dja-et-Lobo,Sangmelima,Meyos,3.015278,12.188056,Village,2005,Clinical,Nodule Palpation,48,21,0.438
+1495,CMR,Sud,Dja-et-Lobo,Meyomessala,Mezesse,3.193056,12.403333,Village,2005,Clinical,Nodule Palpation,46,10,0.217
+1496,CMR,Adamaoua,Mayo-Banyo,Bankim,Mgbandji,5.98907,11.27734,Village,2012,Parasitological,Parasitology (Skin Biopsy),305,18,0.059
+1497,CMR,Littoral,Moungo,Abo,Miang,4.295833,9.710556,Village,,Clinical,Nodule Palpation,32,6,0.188
+1498,CMR,Extrême-Nord,Mayo-Tsanaga,Koza,Midre Var,10.814444,13.891111,Village,2003,Clinical,Nodule Palpation,33,10,0.303
+1499,CMR,Adamaoua,Vina,Ngaoundere Rural,Mikei,7.17,13.04,Village,2003,Clinical,Nodule Palpation,30,6,0.2
+1500,CMR,Sud-Ouest,Fako,Limbe,Mile 16,4.14179,9.30652,Village,2012,Parasitological,Parasitology (Skin Biopsy),304,45,0.148
+1501,CMR,Est,Kadey,Ndelele,Mindourou,4.111111,14.572222,Village,,Clinical,Nodule Palpation,22,2,0.091
+1502,CMR,Centre,Nyong-et-Kéllé,Eseka,Minka,3.556194,11.115028,Village,2013,Parasitological,Parasitology (Skin Biopsy),248,8,0.032
+1503,CMR,Centre,Nyong-et-Kéllé,Eseka,Minka,3.556194,11.115028,Village,2013,Clinical,Nodule Palpation,12,0,0
+1504,CMR,Centre,Nyong-et-Kéllé,Eseka,Minka,3.544444,10.977778,Village,,Clinical,Nodule Palpation,33,5,0.152
+1505,CMR,Sud,Dja-et-Lobo,Sangmelima,Minkang I,2.983333,12.112778,Village,2005,Clinical,Nodule Palpation,50,13,0.26
+1506,CMR,Centre,Nyong-et-Foumou,Akonolinga,Minkoumou,3.479722,11.979722,Village,2005,Clinical,Nodule Palpation,33,11,0.333
+1507,CMR,Sud,Mvila,Djoum,Minkoumou,2.39688,11.96355,Village,2013,Parasitological,Parasitology (Skin Biopsy),194,4,0.021
+1508,CMR,Sud,Mvila,Djoum,Minkoumou,2.39688,11.96355,Village,2013,Clinical,Nodule Palpation,194,8,0.041
+1509,CMR,Sud,Dja-et-Lobo,Zoetele,Minpkwami,3.144167,12.057778,Village,2005,Clinical,Nodule Palpation,63,15,0.238
+1510,CMR,Sud,Vallée-du-Ntem,Ambam,Minsele,2.35,11.14,Village,2003,Clinical,Nodule Palpation,29,0,0
+1511,CMR,Sud,Océan,Kribi,Mintom,2.37622,9.83846,Village,2013,Parasitological,Parasitology (Skin Biopsy),74,1,0.014
+1512,CMR,Sud,Océan,Kribi,Mintom,2.37622,9.83846,Village,2013,Clinical,Nodule Palpation,71,1,0.014
+1513,CMR,Extrême-Nord,Mayo-Tsanaga,Koza,Mogoumaz,10.927778,13.820556,Village,2003,Clinical,Nodule Palpation,31,5,0.161
+1514,CMR,Adamaoua,Mbéré,Meiganga,Moinkoing,6.22167,14.39042,Village,,Parasitological,Parasitology (Skin Biopsy),204,2,0.01
+1515,CMR,Extrême-Nord,Mayo-Sava,Pette,Mokoche,11.039722,14.428611,Village,2003,Clinical,Nodule Palpation,36,0,0
+1516,CMR,Sud-Ouest,Ndian,Ekondo Titi,Mokono,4.6275,9.163333,Village,,Clinical,Nodule Palpation,54,38,0.704
+1517,CMR,Est,Lom-et-Djérem,Garoua Boulai,Mombal,5.616667,14.366667,Village,2004,Clinical,Nodule Palpation,30,2,0.067
+1518,CMR,,,Rey Bouba,Mombore,9.225,14.358333,Village,,Clinical,Nodule Palpation,40,6,0.15
+1519,CMR,Sud,Dja-et-Lobo,Sangmelima,Momebili,3.093611,12.010278,Village,2005,Clinical,Nodule Palpation,30,12,0.4
+1520,CMR,Sud,Dja-et-Lobo,Sangmelima,Moneko,3.1,11.739167,Village,2005,Clinical,Nodule Palpation,41,11,0.268
+1521,CMR,Est,Haut-Nyong,Doume,Motchebom,4.102778,13.222222,Village,,Clinical,Nodule Palpation,22,0,0
+1522,CMR,Littoral,Sanaga-Maritime,Edea,Mouanko,3.63998,9.79318,Village,2013,Parasitological,Parasitology (Skin Biopsy),109,1,0.009
+1523,CMR,Littoral,Sanaga-Maritime,Edea,Mouanko,3.63998,9.79318,Village,2013,Clinical,Nodule Palpation,110,0,0
+1524,CMR,Extrême-Nord,Mayo-Tsanaga,Koza,Moudoukou,10.941389,13.814444,Village,2003,Clinical,Nodule Palpation,32,1,0.031
+1525,CMR,Sud,Océan,Lolodorf,Mougue,3.21599,10.61288,Village,2013,Parasitological,Parasitology (Skin Biopsy),62,1,0.016
+1526,CMR,Sud,Océan,Lolodorf,Mougue,3.21599,10.61288,Village,2013,Clinical,Nodule Palpation,62,0,0
+1527,CMR,Extrême-Nord,Mayo-Tsanaga,Roua,Mouhour,10.663889,13.868889,Village,2003,Clinical,Nodule Palpation,34,4,0.118
+1528,CMR,Centre,Haute-Sanaga,Mbandjock,Mpang,4.383333,12.133333,Village,2004,Clinical,Nodule Palpation,42,13,0.31
+1529,CMR,Est,Haut-Nyong,Abong Mbang,Mpemzok,3.666667,13.3,Village,2004,Clinical,Nodule Palpation,50,2,0.04
+1530,CMR,Est,Haut-Nyong,Nguelemendouka,Mpoundou,4.083333,13.05,Village,2004,Clinical,Nodule Palpation,32,0,0
+1531,CMR,Littoral,Moungo,Mbanga,Mundek,4.546667,9.541944,Village,,Clinical,Nodule Palpation,30,18,0.6
+1532,CMR,Sud-Ouest,Kupe-Muanenguba,Nguti,Mungo-Ndo,5.221944,9.517222,Village,,Clinical,Nodule Palpation,32,19,0.594
+1533,CMR,Sud,Dja-et-Lobo,Messamena,Mveng,2.973889,12.665833,Village,2005,Clinical,Nodule Palpation,32,13,0.406
+1534,CMR,Sud,Mvila,Ebolowa,Mvila Yevol,2.9647,11.01397,Village,2013,Parasitological,Parasitology (Skin Biopsy),163,2,0.012
+1535,CMR,Sud,Mvila,Ebolowa,Mvila Yevol,2.9647,11.01397,Village,2013,Clinical,Nodule Palpation,163,2,0.012
+1536,CMR,Sud,Dja-et-Lobo,Meyomessala,Mvomeka,3.11,12.26,Village,2003,Clinical,Nodule Palpation,50,0,0
+1537,CMR,Centre,Lekié,Okola,Mvoua,4.056667,11.431389,Village,,Clinical,Nodule Palpation,44,4,0.091
+1538,CMR,Nord,Mayo-Louti,Mayo Oulo,Naari,10.044444,13.558333,Village,,Clinical,Nodule Palpation,30,10,0.333
+1539,CMR,Est,Lom-et-Djérem,Garoua Boulai,Nagonda,5.866667,14.566667,Village,2004,Clinical,Nodule Palpation,44,3,0.068
+1540,CMR,Nord,Faro,Poli,Nakalba,8.533333,12.6,Village,,Clinical,Nodule Palpation,30,2,0.067
+1541,CMR,Est,Lom-et-Djérem,Garoua Boulai,Nandoungu,5.666667,14.35,Village,2004,Clinical,Nodule Palpation,32,1,0.031
+1542,CMR,Nord,Mayo-Rey,Rey Bouba,Nassarao,8.766667,14.8,Village,,Clinical,Nodule Palpation,35,19,0.543
+1543,CMR,Centre,Nyong-et-Foumou,Akonolinga,Ndagueng,3.496667,12.015556,Village,2005,Clinical,Nodule Palpation,36,5,0.139
+1544,CMR,Est,Lom-et-Djérem,Betare Oya,Ndanga Ga,5.416667,14.05,Village,2004,Clinical,Nodule Palpation,30,0,0
+1545,CMR,Centre,Nyong-et-Foumou,Akonolinga,Ndele,3.489722,12.074722,Village,2005,Clinical,Nodule Palpation,50,17,0.34
+1546,CMR,Littoral,Nkam,Ndikinimeki,Ndem,4.55,10.333333,Village,,Clinical,Nodule Palpation,10,10,1
+1547,CMR,Est,Lom-et-Djérem,Bertoua,Ndemba I,4.808333,13.356944,Village,2004,Clinical,Nodule Palpation,29,6,0.207
+1548,CMR,Est,Lom-et-Djérem,Bertoua,Ndemba II,4.666667,13.466667,Village,2004,Clinical,Nodule Palpation,33,1,0.03
+1549,CMR,Sud,Mvila,Mvangan,Ndick,2.61,11.9,Village,2003,Clinical,Nodule Palpation,30,0,0
+1550,CMR,Adamaoua,Vina,Ngaoundere Rural,Ndigou,7.116667,14.333333,Village,,Clinical,Nodule Palpation,30,0,0
+1551,CMR,Extrême-Nord,Logone-et-Chari,Kousseri,Ndiguina,11.486389,14.675278,Village,2003,Clinical,Nodule Palpation,31,0,0
+1552,CMR,Centre,Mbam-et-Kim,Ntui,Nditam,5.788889,11.497222,Village,,Clinical,Nodule Palpation,57,42,0.737
+1553,CMR,Sud,Dja-et-Lobo,Meyomessala,Ndjikom,3.06,12.36,Village,2003,Clinical,Nodule Palpation,39,14,0.359
+1554,CMR,Est,Lom-et-Djérem,Betare Oya,Ndokayo,5.523611,14.1925,Village,2004,Clinical,Nodule Palpation,35,1,0.029
+1555,CMR,Littoral,Nkam,Yabassi,Ndokban,4.760833,10.292222,Village,,Clinical,Nodule Palpation,16,12,0.75
+1556,CMR,Littoral,Nkam,Yabassi,Ndokbangu,4.375556,10.151667,Village,,Clinical,Nodule Palpation,29,25,0.862
+1557,CMR,Littoral,Nkam,Yabassi,Ndokbao,4.464167,10.028889,Village,,Clinical,Nodule Palpation,21,19,0.905
+1558,CMR,Centre,Mbam-et-Inoubou,Ndikinimeki,Ndokbou,4.658333,10.605556,Village,,Clinical,Nodule Palpation,39,29,0.744
+1559,CMR,Littoral,Nkam,Yabassi,Ndokndak,4.393889,10.112222,Village,,Clinical,Nodule Palpation,6,4,0.667
+1560,CMR,Centre,Mbam-et-Inoubou,Ndikinimeki,Ndokohok,4.863889,10.825,Village,,Clinical,Nodule Palpation,44,27,0.614
+1561,CMR,Centre,Mbam-et-Inoubou,Ndikinimeki,Ndokowane,4.866667,10.822222,Village,,Clinical,Nodule Palpation,30,14,0.467
+1562,CMR,Littoral,Nkam,Yabassi,Ndokpo,4.55,9.935,Village,,Clinical,Nodule Palpation,35,31,0.886
+1563,CMR,Nord,Bénoué,Pitoa,Ndonga,9.316667,13.783333,Village,,Clinical,Nodule Palpation,40,1,0.025
+1564,CMR,Littoral,Nkam,Abo,Ndoulou,4.304722,9.793056,Village,2006,Clinical,Nodule Palpation,24,1,0.042
+1565,CMR,Est,Lom-et-Djérem,Kette,Ndoumba B,5.133333,14.483333,Village,2004,Clinical,Nodule Palpation,36,21,0.583
+1566,CMR,Est,Lom-et-Djérem,Bertoua,Ndoumba K,4.894444,13.255556,Village,,Clinical,Nodule Palpation,51,22,0.431
+1567,CMR,Est,Lom-et-Djérem,Bertoua,Ndoumbe,4.95,13.9,Village,2004,Clinical,Nodule Palpation,38,0,0
+1568,CMR,Extrême-Nord,Mayo-Tsanaga,Roua,Ndoure,10.642222,13.953611,Village,2003,Clinical,Nodule Palpation,30,2,0.067
+1569,CMR,Sud-Ouest,Lebialem,Wabane,Ndungated,5.52,9.918889,Village,,Clinical,Nodule Palpation,51,35,0.686
+1570,CMR,Centre,Lekié,Elig Mfomo,Nega,4.316667,11.294444,Village,,Clinical,Nodule Palpation,40,20,0.5
+1571,CMR,Est,Haut-Nyong,Abong Mbang,Nemeyong,3.516667,13.4,Village,2004,Clinical,Nodule Palpation,50,1,0.02
+1572,CMR,Est,Haut-Nyong,Abong Mbang,Nemeyong,3.516667,12.983333,Village,2004,Clinical,Nodule Palpation,43,10,0.233
+1573,CMR,Est,Haut-Nyong,Djoum,Nemeyong,2.916667,13.5,Village,2004,Clinical,Nodule Palpation,30,6,0.2
+1574,CMR,Sud-Ouest,Manyu,Mamfe,Nfeitok-N,5.716667,9.494722,Village,,Clinical,Nodule Palpation,59,44,0.746
+1575,CMR,Centre,Nyong-et-So'o,Mbalmayo,Ngalzok,3.463056,11.653889,Village,2005,Clinical,Nodule Palpation,34,11,0.324
+1576,CMR,Adamaoua,Mbéré,Djohong,Ngam,6.7375,14.566667,Village,,Clinical,Nodule Palpation,30,5,0.167
+1577,CMR,Sud,Dja-et-Lobo,Sangmelima,Ngam Yeve,2.8475,12.113333,Village,2005,Clinical,Nodule Palpation,34,10,0.294
+1578,CMR,Centre,Mbam-et-Kim,Ntui,Ngambe-Ti,5.947222,11.547222,Village,,Clinical,Nodule Palpation,30,25,0.833
+1579,CMR,Est,Lom-et-Djérem,Bertoua,Ngamboula,4.533333,13.833333,Village,2004,Clinical,Nodule Palpation,24,0,0
+1580,CMR,Adamaoua,Vina,Ngaoundere Urbain,Nganha,7.433333,13.933333,Village,,Clinical,Nodule Palpation,30,21,0.7
+1581,CMR,Sud-Ouest,Meme,Ekondo Titi,Nganjo,4.572778,9.123611,Village,,Clinical,Nodule Palpation,50,32,0.64
+1582,CMR,Adamaoua,Djérem,Ngaoundal,Ngao-Bam,6.7,13.03,Village,2003,Clinical,Nodule Palpation,43,0,0
+1583,CMR,Adamaoua,Djérem,Ngaoundal,Ngaou-Hor,6.72,13.2,Village,2003,Clinical,Nodule Palpation,30,0,0
+1584,CMR,Adamaoua,Vina,Ngaoundere Rural,Ngaoudamd,7.22,14.27,Village,2003,Clinical,Nodule Palpation,30,8,0.267
+1585,CMR,Adamaoua,Djérem,Ngaoundal,Ngaoundal,6.27,13.16,Village,2003,Clinical,Nodule Palpation,31,9,0.29
+1586,CMR,Sud,Dja-et-Lobo,Djoum,Ngbwassa,2.553333,12.598056,Village,2005,Clinical,Nodule Palpation,31,5,0.161
+1587,CMR,Sud,Vallée-du-Ntem,Olamze,Ngoazik,2.29,11.3,Village,2003,Clinical,Nodule Palpation,23,11,0.478
+1588,CMR,Sud,Mvila,Ebolowa,Ngoazip II,3.08,10.99,Village,2003,Clinical,Nodule Palpation,30,1,0.033
+1589,CMR,Centre,Nyong-et-Kéllé,Eseka,Ngog Tos,3.575,10.716667,Village,,Clinical,Nodule Palpation,11,3,0.273
+1590,CMR,Est,Haut-Nyong,Abong Mbang,Ngola,3.233333,13.983333,Village,2004,Clinical,Nodule Palpation,30,3,0.1
+1591,CMR,Sud,Dja-et-Lobo,Zoetele,Ngolbang,3.3675,11.924167,Village,2005,Clinical,Nodule Palpation,30,0,0
+1592,CMR,Sud,Mvila,Mvangan,Ngon,2.675,11.611111,Village,,Clinical,Nodule Palpation,50,0,0
+1593,CMR,Centre,Mbam-et-Inoubou,Bafia,Ngongol,4.816667,11.183333,Village,,Parasitological,Parasitology (Skin Biopsy),237,144,0.608
+1594,CMR,Centre,Mbam-et-Kim,Yoko,Ngouetou,5.761111,12.405556,Village,,Clinical,Nodule Palpation,44,9,0.205
+1595,CMR,Centre,Nyong-et-Foumou,Meyomessala,Ngougoumo,3.436111,12.126667,Village,2005,Clinical,Nodule Palpation,33,1,0.03
+1596,CMR,Est,Haut-Nyong,Doume,Ngoulmina,4.091667,13.297778,Village,2004,Clinical,Nodule Palpation,33,9,0.273
+1597,CMR,Centre,Mbam-et-Kim,Ntui,Ngoume,5.497222,11.405556,Village,,Clinical,Nodule Palpation,22,6,0.273
+1598,CMR,Nord,Mayo-Rey,Touboro,Ngoumi I,7.78178,15.20022,Village,1993,Clinical,Nodule Palpation,50,42,0.84
+1599,CMR,Nord,Mayo-Rey,Touboro,Ngoumi I,7.78178,15.20022,Village,,Parasitological,Parasitology (Skin Biopsy),183,6,0.033
+1600,CMR,Est,Kadey,Ndelele,Ngoura,4.388889,14.575,Village,,Clinical,Nodule Palpation,14,0,0
+1601,CMR,Adamaoua,Faro-et-Déo,Tignere,Ngouri,7.3,12.32,Village,2003,Clinical,Nodule Palpation,40,13,0.325
+1602,CMR,Est,Haut-Nyong,Nguelemendouka,Nguelmend,4.383333,12.916667,Village,2004,Clinical,Nodule Palpation,30,1,0.033
+1603,CMR,Centre,Haute-Sanaga,Nanga Eboko,Nguen,4.616667,13.033333,Village,,Clinical,Nodule Palpation,50,3,0.06
+1604,CMR,Centre,Nyong-et-Kéllé,Eseka,Nguibassa,3.575,10.8,Village,,Clinical,Nodule Palpation,25,4,0.16
+1605,CMR,Littoral,Moungo,Manjo,Ngwa,4.916667,9.923611,Village,,Clinical,Nodule Palpation,33,20,0.606
+1606,CMR,Adamaoua,Vina,Ngaoundere Rural,Niase-Sou,6.88,14.53,Village,2003,Clinical,Nodule Palpation,30,7,0.233
+1607,CMR,Sud-Ouest,Lebialem,Wabane,Njenawung,5.603056,9.9825,Village,,Clinical,Nodule Palpation,52,25,0.481
+1608,CMR,Est,Haut-Nyong,Abong Mbang,Njibot I,3.733333,12.92,Village,2004,Clinical,Nodule Palpation,43,5,0.116
+1609,CMR,Ouest,Noun,Foumbot,Njindoum,5.606944,10.634722,Village,,Clinical,Nodule Palpation,30,21,0.7
+1610,CMR,Est,Haut-Nyong,Abong Mbang,Njolempou,3.65186,13.10095,Village,2004,Clinical,Nodule Palpation,29,7,0.241
+1611,CMR,Ouest,Noun,Kouoptamo,Njone,5.1,10.883333,Village,2011,Parasitological,Parasitology (Skin Biopsy),249,96,0.386
+1612,CMR,Centre,Haute-Sanaga,Mbandjock,Njore,4.394444,11.816667,Village,,Clinical,Nodule Palpation,45,33,0.733
+1613,CMR,Sud,Dja-et-Lobo,Meyomessala,Nkaa,3.07,12.32,Village,2003,Clinical,Nodule Palpation,41,14,0.341
+1614,CMR,Sud,Dja-et-Lobo,Djoum,Nkan,2.683889,12.925278,Village,2005,Clinical,Nodule Palpation,33,14,0.424
+1615,CMR,Centre,Nyong-et-Foumou,Meyomessala,Nkilzok,3.470556,12.211111,Village,2005,Clinical,Nodule Palpation,39,9,0.231
+1616,CMR,Sud,Dja-et-Lobo,Zoetele,Nkilzok,3.34537,11.95777,Village,2005,Clinical,Nodule Palpation,31,10,0.323
+1617,CMR,Centre,Méfou-et-Afamba,Awae,Nkilzok I,3.675,11.663889,Village,,Clinical,Nodule Palpation,30,0,0
+1618,CMR,Sud,Dja-et-Lobo,Sangmelima,Nko,3.15,11.78,Village,2003,Clinical,Nodule Palpation,30,10,0.333
+1619,CMR,Sud,Dja-et-Lobo,Meyomessala,Nko'otoun,3.27,12.19,Village,2003,Clinical,Nodule Palpation,30,0,0
+1620,CMR,Sud,Dja-et-Lobo,Djoum,Nkolafend,2.830278,12.670278,Village,2005,Clinical,Nodule Palpation,60,25,0.417
+1621,CMR,Centre,Lekié,Okola,Nkolangou,4.091667,11.369444,Village,,Clinical,Nodule Palpation,30,6,0.2
+1622,CMR,Sud,Dja-et-Lobo,Zoetele,Nkolassok,3.276389,12.015278,Village,2005,Clinical,Nodule Palpation,45,7,0.156
+1623,CMR,Est,Haut-Nyong,Abong Mbang,Nkolbang,3.433611,13.01,Village,2005,Clinical,Nodule Palpation,50,13,0.26
+1624,CMR,Centre,Nyong-et-So'o,Mbalmayo,Nkolbewa,3.283333,11.2,Village,,Clinical,Nodule Palpation,39,0,0
+1625,CMR,Centre,Lekié,Saa,Nkolebass,4.472778,11.436111,Village,,Clinical,Nodule Palpation,40,19,0.475
+1626,CMR,Est,Haut-Nyong,Messamena,Nkolekoul,3.333333,12.883333,Village,2004,Clinical,Nodule Palpation,46,17,0.37
+1627,CMR,Sud,Dja-et-Lobo,Djoum,Nkolenyen,2.6,12.776667,Village,2005,Clinical,Nodule Palpation,39,17,0.436
+1628,CMR,Centre,Méfou-et-Afamba,Akonolinga,Nkolesson,4.083333,12.094444,Village,,Clinical,Nodule Palpation,31,1,0.032
+1629,CMR,Centre,Méfou-et-Afamba,Awae,Nkolfoulo,3.918056,11.583333,Village,,Clinical,Nodule Palpation,43,17,0.395
+1630,CMR,Centre,Lekié,Soa,Nkolguem,4.105556,11.522222,Village,,Clinical,Nodule Palpation,34,9,0.265
+1631,CMR,Sud,Dja-et-Lobo,Zoetele,Nkolmekom,3.400556,11.974167,Village,2005,Clinical,Nodule Palpation,43,6,0.14
+1632,CMR,Centre,Lekié,Soa,Nkolmendo,4.033333,11.516667,Village,,Clinical,Nodule Palpation,30,5,0.167
+1633,CMR,Sud,Dja-et-Lobo,Sangmelima,Nkolndong,2.959167,12.135556,Village,2005,Clinical,Nodule Palpation,50,11,0.22
+1634,CMR,Centre,Nyong-et-So'o,Mbalmayo,Nkolnyama,3.361111,11.572222,Village,,Clinical,Nodule Palpation,30,1,0.033
+1635,CMR,Centre,Lekié,Elig Mfomo,Nkolossan,4.3,11.366667,Village,,Clinical,Nodule Palpation,40,6,0.15
+1636,CMR,Centre,Lekié,Obala,Nkolve,4.3,11.513889,Village,,Clinical,Nodule Palpation,30,23,0.767
+1637,CMR,Centre,Méfou-et-Akono,Mbalmayo,Nkong-Dou,3.630556,11.425,Village,,Clinical,Nodule Palpation,10,0,0
+1638,CMR,Littoral,Sanaga-Maritime,Ndom,Nkongkwala I,4.13959,10.906,Village,,Parasitological,Parasitology (Skin Biopsy),192,119,0.62
+1639,CMR,Littoral,Nkam,Yabassi,Nkongmala,4.533333,9.990833,Village,,Clinical,Nodule Palpation,20,18,0.9
+1640,CMR,Centre,Lekié,Elig Mfomo,Nkongmess,4.254444,11.239722,Village,,Clinical,Nodule Palpation,40,30,0.75
+1641,CMR,Sud,Dja-et-Lobo,Djoum,Nkono,2.485556,12.466111,Village,2005,Clinical,Nodule Palpation,32,9,0.281
+1642,CMR,Littoral,Nkam,Njombe Penja,Nkonpina,4.604722,9.82,Village,2006,Clinical,Nodule Palpation,50,4,0.08
+1643,CMR,Sud,Vallée-du-Ntem,Ambam,Nkot-Oven,2.53,11.05,Village,2003,Clinical,Nodule Palpation,25,0,0
+1644,CMR,Est,Haut-Nyong,Abong Mbang,Nkouak,3.867278,13.316083,Village,2013,Parasitological,Parasitology (Skin Biopsy),195,5,0.026
+1645,CMR,Est,Haut-Nyong,Abong Mbang,Nkouak,3.867278,13.316083,Village,2013,Clinical,Nodule Palpation,195,12,0.062
+1646,CMR,Est,Haut-Nyong,Abong Mbang,Nkouak/Nk,3.866667,13.333333,Village,2004,Clinical,Nodule Palpation,50,3,0.06
+1647,CMR,Sud,Océan,Lolodorf,Nkouamboe,3.308333,10.813889,Village,,Clinical,Nodule Palpation,9,1,0.111
+1648,CMR,Ouest,Noun,Massangam,Nkoufen,5.65,10.916667,Village,,Clinical,Nodule Palpation,50,45,0.9
+1649,CMR,Centre,Nyong-et-Foumou,Meyomessala,Nkoumadja,3.429722,12.174444,Village,2005,Clinical,Nodule Palpation,37,7,0.189
+1650,CMR,Sud,Dja-et-Lobo,Meyomessala,Nkoumadja,3.486944,12.320556,Village,2005,Clinical,Nodule Palpation,30,10,0.333
+1651,CMR,Sud,Dja-et-Lobo,Zoetele,Nkout,3.27,11.892778,Village,2005,Clinical,Nodule Palpation,30,9,0.3
+1652,CMR,Sud,Dja-et-Lobo,Meyomessala,Nlobesse,3.11,12.4,Village,2003,Clinical,Nodule Palpation,24,16,0.667
+1653,CMR,Littoral,Moungo,Loum,Nlohe,4.762222,9.75,Village,,Clinical,Nodule Palpation,33,22,0.667
+1654,CMR,Nord,Mayo-Rey,Tchollire,Notto,8.044444,13.611111,Village,,Clinical,Nodule Palpation,30,18,0.6
+1655,CMR,Nord,Mayo-Rey,Tchollire,Nounoudje,8.39847,14.18835,Village,1993,Clinical,Nodule Palpation,50,37,0.74
+1656,CMR,Nord,Mayo-Rey,Tchollire,Nounoudje,8.39847,14.18835,Village,,Parasitological,Parasitology (Skin Biopsy),199,18,0.09
+1657,CMR,,,Mamfe,Nsanagara,5.864444,8.905,Village,,Clinical,Nodule Palpation,39,18,0.462
+1658,CMR,Sud,Dja-et-Lobo,Meyomessala,Nsimalen,3.275833,12.073333,Village,2005,Clinical,Nodule Palpation,30,8,0.267
+1659,CMR,Sud,Océan,Lolodorf,Nsola,3.24955,10.43762,Village,2013,Parasitological,Parasitology (Skin Biopsy),122,5,0.041
+1660,CMR,Sud,Océan,Lolodorf,Nsola,3.24955,10.43762,Village,2013,Clinical,Nodule Palpation,122,4,0.033
+1661,CMR,Sud-Ouest,Manyu,Batibo,Numba,5.8425,9.716667,Village,,Clinical,Nodule Palpation,22,12,0.545
+1662,CMR,Littoral,Sanaga-Maritime,Ndikinimeki,Nyabamlan,4.2382,10.97403,Village,,Parasitological,Parasitology (Skin Biopsy),182,85,0.467
+1663,CMR,Adamaoua,Mayo-Banyo,Bankim,Nyakong,6.1802,11.56702,Village,,Parasitological,Parasitology (Skin Biopsy),244,0,0
+1664,CMR,Centre,Mbam-et-Inoubou,Bafia,Nyamanga,4.558611,11.327222,Village,,Clinical,Nodule Palpation,59,43,0.729
+1665,CMR,Centre,Mbam-et-Inoubou,Bafia,Nyamongo,4.795278,11.313889,Village,2011,Parasitological,Parasitology (Skin Biopsy),304,217,0.714
+1666,CMR,Centre,Mbam-et-Inoubou,Bafia,Nyamongo,4.795278,11.313889,Village,,Clinical,Nodule Palpation,81,66,0.815
+1667,CMR,Adamaoua,Vina,Ngaoundere Rural,Nyassar,7.533333,14.033333,Village,,Clinical,Nodule Palpation,30,22,0.733
+1668,CMR,Sud-Ouest,Kupe-Muanenguba,Tombel,Nyassosso,4.823889,9.683333,Village,,Clinical,Nodule Palpation,32,12,0.375
+1669,CMR,Sud,Dja-et-Lobo,Sangmelima,Nyazanga,2.83,12.05,Village,2003,Clinical,Nodule Palpation,30,1,0.033
+1670,CMR,Sud,Dja-et-Lobo,Sangmelima,Nyazanga,3.06,12.303611,Village,2005,Clinical,Nodule Palpation,30,8,0.267
+1671,CMR,Sud,Mvila,Ebolowa,Nyazo'o N,3.115639,10.938028,Village,2003,Clinical,Nodule Palpation,35,0,0
+1672,CMR,Centre,Mbam-et-Inoubou,Ndikinimeki,Nyokon,4.928056,10.752778,Village,,Clinical,Nodule Palpation,34,20,0.588
+1673,CMR,Nord-Ouest,Mezam,Bafut,Obang,6.225,10.059722,Village,,Clinical,Nodule Palpation,73,30,0.411
+1674,CMR,Sud,Vallée-du-Ntem,Ambam,Okong,2.530556,10.941667,Village,,Clinical,Nodule Palpation,31,1,0.032
+1675,CMR,Sud-Ouest,Manyu,Mamfe,Okoyong,5.72,9.3525,Village,,Clinical,Nodule Palpation,21,12,0.571
+1676,CMR,Sud,Dja-et-Lobo,Sangmelima,Olounou,2.81,12.13,Village,2003,Clinical,Nodule Palpation,31,2,0.065
+1677,CMR,Sud,Dja-et-Lobo,Sangmelima,Olounou,2.907778,12.263611,Village,2005,Clinical,Nodule Palpation,56,18,0.321
+1678,CMR,Sud,Mvila,Ebolowa,Ossoefeme,3.07,11.38,Village,2003,Clinical,Nodule Palpation,30,0,0
+1679,CMR,Centre,Méfou-et-Akono,Ngoumou,Otele,3.588889,11.25,Village,,Clinical,Nodule Palpation,7,0,0
+1680,CMR,Est,Lom-et-Djérem,Garoua Boulai,Ouaden,5.55,14.416667,Village,2004,Clinical,Nodule Palpation,31,1,0.032
+1681,CMR,Est,Lom-et-Djérem,Betare Oya,Ouami,5.258333,13.597222,Village,2004,Clinical,Nodule Palpation,14,5,0.357
+1682,CMR,Adamaoua,Mbéré,Meiganga,Ouanta,6.37,14.34,Village,2003,Clinical,Nodule Palpation,30,8,0.267
+1683,CMR,Centre,Haute-Sanaga,Nanga Eboko,Ouassa Ba,4.9,12.5,Village,,Clinical,Nodule Palpation,46,26,0.565
+1684,CMR,Adamaoua,Vina,Ngaoundere Urbain,Ouassanda,7.1,14.08,Village,2003,Clinical,Nodule Palpation,41,8,0.195
+1685,CMR,Est,Lom-et-Djérem,Betare Oya,Oudoulai,5.485,14.225833,Village,2004,Clinical,Nodule Palpation,20,0,0
+1686,CMR,Nord,Faro,Poli,Ouro Dole,9.066667,12.883333,Village,,Clinical,Nodule Palpation,30,2,0.067
+1687,CMR,Nord,Bénoué,Bibemi,Ourobobow,9.265278,13.835,Village,2003,Clinical,Nodule Palpation,50,1,0.02
+1688,CMR,Extrême-Nord,Mayo-Tsanaga,Koza,Ourombaya,10.894167,13.898611,Village,2003,Clinical,Nodule Palpation,37,5,0.135
+1689,CMR,Sud-Ouest,Fako,Buea,Owe,4.289444,9.383333,Village,,Clinical,Nodule Palpation,50,17,0.34
+1690,CMR,Sud,Mvila,Mvangan,Oyem,2.6,12.06,Village,2003,Clinical,Nodule Palpation,30,0,0
+1691,CMR,Est,Haut-Nyong,Abong Mbang,Oyem-Gabo,3.546389,13.727222,Village,2004,Clinical,Nodule Palpation,50,3,0.06
+1692,CMR,Sud,Mvila,Mvangan,Oyem I,2.6,12.07,Village,2003,Clinical,Nodule Palpation,30,1,0.033
+1693,CMR,Nord,Bénoué,Garoua Ii,Padan,9.368611,13.004167,Village,2003,Clinical,Nodule Palpation,37,2,0.054
+1694,CMR,Adamaoua,Vina,Ngaoundere Rural,Paksal,7.28,13.32,Village,2003,Clinical,Nodule Palpation,34,7,0.206
+1695,CMR,Adamaoua,Faro-et-Déo,Tignere,Paro Pont,7.133333,12.733333,Village,,Clinical,Nodule Palpation,19,1,0.053
+1696,CMR,Littoral,Moungo,Tiko,Penda Mbo,4.266667,9.4425,Village,,Clinical,Nodule Palpation,31,13,0.419
+1697,CMR,Est,Lom-et-Djérem,Betare Oya,Petit Nga,5.483333,14.268889,Village,2004,Clinical,Nodule Palpation,31,1,0.032
+1698,CMR,Littoral,Sanaga-Maritime,Ngambe,Pimbe,4.143889,10.558333,Village,,Clinical,Nodule Palpation,16,7,0.438
+1699,CMR,Est,Haut-Nyong,Abong Mbang,Pohempoum,3.404444,13.527222,Village,2004,Clinical,Nodule Palpation,32,4,0.125
+1700,CMR,Nord,Bénoué,Garoua Ii,Pomla,9.4,13.344444,Village,,Clinical,Nodule Palpation,40,1,0.025
+1701,CMR,Nord,Faro,Poli,Pomla,8.766667,12.872222,Village,,Clinical,Nodule Palpation,30,4,0.133
+1702,CMR,Centre,Nyong-et-Kéllé,Ngog Mapubi,Pout Kell,3.983333,10.805556,Village,,Clinical,Nodule Palpation,22,10,0.455
+1703,CMR,Adamaoua,Vina,Ngaoundere Urbain,Rem,7.4,13.28,Village,2003,Clinical,Nodule Palpation,30,3,0.1
+1704,CMR,Nord,Mayo-Rey,Rey Bouba,Rey Manga,8.64887,14.17203,Village,1993,Clinical,Nodule Palpation,50,25,0.5
+1705,CMR,Nord,Mayo-Rey,Rey Bouba,Rey Manga,8.64887,14.17203,Village,,Parasitological,Parasitology (Skin Biopsy),132,7,0.053
+1706,CMR,Nord,Mayo-Rey,Touboro,Ribao,7.79442,15.04439,Village,1993,Clinical,Nodule Palpation,50,42,0.84
+1707,CMR,Nord,Mayo-Rey,Touboro,Ribao,7.79442,15.04439,Village,,Parasitological,Parasitology (Skin Biopsy),101,6,0.059
+1708,CMR,Adamaoua,Mayo-Banyo,Bankim,Ribao,6.5125,11.454167,Village,,Clinical,Nodule Palpation,21,1,0.048
+1709,CMR,Extrême-Nord,Mayo-Tsanaga,Mokolo,Roua,10.790556,13.996667,Village,2003,Clinical,Nodule Palpation,30,0,0
+1710,CMR,Sud-Ouest,Manyu,Wabane,Sabes,5.65,9.869722,Village,,Clinical,Nodule Palpation,54,46,0.852
+1711,CMR,Nord,Mayo-Rey,Tchollire,Sakdje,8.261111,13.661111,Village,,Clinical,Nodule Palpation,30,10,0.333
+1712,CMR,Adamaoua,Mbéré,Meiganga,Samaki,6.47,14.15,Village,2003,Clinical,Nodule Palpation,43,9,0.209
+1713,CMR,Adamaoua,Mayo-Banyo,Banyo,Sambolamb,7.075,11.983333,Village,,Clinical,Nodule Palpation,27,0,0
+1714,CMR,Ouest,Ndé,Bangangte,Sankie,5.058333,10.8,Village,,Clinical,Nodule Palpation,30,30,1
+1715,CMR,Adamaoua,Djérem,Tibati,Sarbale,6.59,12.58,Village,2003,Clinical,Nodule Palpation,31,4,0.129
+1716,CMR,Sud-Ouest,Fako,Limbe,Sasse,4.111944,9.228611,Village,,Clinical,Nodule Palpation,50,30,0.6
+1717,CMR,Adamaoua,Vina,Ngaoundere Rural,Seaoua,7.33,14.2,Village,2003,Clinical,Nodule Palpation,48,0,0
+1718,CMR,Littoral,Sanaga-Maritime,Ngog Mapubi,Sidongui I,3.97795,10.62848,Village,2011,Parasitological,Parasitology (Skin Biopsy),169,73,0.432
+1719,CMR,Nord,Mayo-Rey,Rey Bouba,Sinassi,8.849999,14.48333,Village,2003,Clinical,Nodule Palpation,41,13,0.317
+1720,CMR,Est,Kadey,Ndelele,Sobolo,4.191667,14.786111,Village,,Clinical,Nodule Palpation,36,0,0
+1721,CMR,Nord,Mayo-Rey,Touboro,Sokorta,7.214722,15.032222,Village,2003,Clinical,Nodule Palpation,47,5,0.106
+1722,CMR,Littoral,Nkam,Njombe Penja,Solle,4.601667,9.804722,Village,,Clinical,Nodule Palpation,51,34,0.667
+1723,CMR,Est,Haut-Nyong,Abong Mbang,Somalomo,3.461944,13.119444,Village,2004,Clinical,Nodule Palpation,50,14,0.28
+1724,CMR,Littoral,Sanaga-Maritime,Ndom,Song Bong I,4.15915,10.94626,Village,2011,Parasitological,Parasitology (Skin Biopsy),157,72,0.459
+1725,CMR,Centre,Nyong-et-Kéllé,Eseka,Song Mbon,3.45,10.5,Village,,Clinical,Nodule Palpation,29,0,0
+1726,CMR,Littoral,Sanaga-Maritime,Ngambe,Songmbengue,4.05114,10.57409,Village,,Parasitological,Parasitology (Skin Biopsy),190,96,0.505
+1727,CMR,Nord,Mayo-Rey,Touboro,Sora Mboum,7.8,15.033333,Village,1993,Clinical,Nodule Palpation,50,40,0.8
+1728,CMR,Nord,Mayo-Rey,Touboro,Sora Mboum,7.8,15.033333,Village,,Parasitological,Parasitology (Skin Biopsy),103,3,0.029
+1729,CMR,Extrême-Nord,Mayo-Tsanaga,Mokolo,Soulede C,10.764722,13.921389,Village,2003,Clinical,Nodule Palpation,50,5,0.1
+1730,CMR,Sud-Ouest,Meme,Konye,Supe,5.016667,9.422222,Village,,Clinical,Nodule Palpation,50,31,0.62
+1731,CMR,Extrême-Nord,Mayo-Sava,Mora,Tagawa Ho,11.321667,14.440833,Village,2003,Clinical,Nodule Palpation,32,0,0
+1732,CMR,Sud-Ouest,Manyu,Wabane,Takwai,5.525556,9.807222,Village,,Clinical,Nodule Palpation,67,32,0.478
+1733,CMR,Sud-Ouest,Manyu,Mamfe,Talangaye,5.6261,9.31188,Village,,Parasitological,Parasitology (Skin Biopsy),199,37,0.186
+1734,CMR,Sud-Ouest,Manyu,Mamfe,Talangaye,5.629167,9.311389,Village,,Clinical,Nodule Palpation,50,27,0.54
+1735,CMR,Sud-Ouest,Manyu,Mamfe,Tali-Chan,5.58,9.6525,Village,,Clinical,Nodule Palpation,40,34,0.85
+1736,CMR,Nord,Bénoué,Ngong,Tamdjali,8.899444,12.910556,Village,2003,Clinical,Nodule Palpation,6,4,0.667
+1737,CMR,Littoral,Moungo,Njombe Penja,Tangui,4.541667,9.608333,Village,,Clinical,Nodule Palpation,23,3,0.13
+1738,CMR,Est,Kadey,Batouri,Tapare,4.748278,14.277833,Village,2013,Parasitological,Parasitology (Skin Biopsy),169,1,0.006
+1739,CMR,Est,Kadey,Batouri,Tapare,4.748278,14.277833,Village,2013,Clinical,Nodule Palpation,169,4,0.024
+1740,CMR,Est,Kadey,Batouri,Tapare,4.75,14.283333,Village,,Clinical,Nodule Palpation,32,5,0.156
+1741,CMR,Nord,Mayo-Rey,Rey Bouba,Tapare,8.513889,14.188889,Village,,Clinical,Nodule Palpation,30,8,0.267
+1742,CMR,Nord,Mayo-Rey,Touboro,Tapi,7.95,15.216667,Village,,Clinical,Nodule Palpation,83,41,0.494
+1743,CMR,Nord,Mayo-Rey,Rey Bouba,Tatou,8.7,13.983333,Village,,Clinical,Nodule Palpation,34,20,0.588
+1744,CMR,Adamaoua,Faro-et-Déo,Tignere,Tchabal-M,7.27,12.15,Village,2003,Clinical,Nodule Palpation,33,2,0.061
+1745,CMR,Nord,Mayo-Rey,Tchollire,Tchollire Chefferie,8.4,14.166667,Village,1993,Clinical,Nodule Palpation,50,24,0.48
+1746,CMR,Nord,Mayo-Rey,Tchollire,Tchollire Chefferie,8.4,14.166667,Village,,Parasitological,Parasitology (Skin Biopsy),75,7,0.093
+1747,CMR,Ouest,Noun,Bandjoun,Tenjounou,5.383333,10.541667,Village,,Clinical,Nodule Palpation,30,30,1
+1748,CMR,Est,Kadey,Batouri,Tikondi,4.466667,14.133333,Village,2004,Clinical,Nodule Palpation,39,21,0.538
+1749,CMR,Sud-Ouest,Kupe-Muanenguba,Kumba,Tombel Cd,4.738333,9.661667,Village,,Clinical,Nodule Palpation,30,13,0.433
+1750,CMR,Ouest,Ndé,Ndikinimeki,Tonga,4.966667,10.7,Village,,Clinical,Nodule Palpation,30,26,0.867
+1751,CMR,Est,Lom-et-Djérem,Betare Oya,Tongo Gad,5.183333,14,Village,2004,Clinical,Nodule Palpation,33,1,0.03
+1752,CMR,Est,Haut-Nyong,Abong Mbang,Tonkla,3.552778,13.716944,Village,2004,Clinical,Nodule Palpation,30,1,0.033
+1753,CMR,Ouest,Ndé,Bangangte,Toukou,5.036944,10.420278,Village,,Parasitological,Parasitology (Skin Biopsy),268,44,0.164
+1754,CMR,Nord,Mayo-Rey,Touboro,Touldoro,7.405278,14.760833,Village,2003,Clinical,Nodule Palpation,35,10,0.286
+1755,CMR,Littoral,Nkam,Yabassi,Toumbassa,4.7,10.153611,Village,,Clinical,Nodule Palpation,10,5,0.5
+1756,CMR,Nord,Faro,Poli,Toumbinde,9.011111,12.911111,Village,,Clinical,Nodule Palpation,30,3,0.1
+1757,CMR,Centre,Mbam-et-Inoubou,Bafia,Tsekane,4.7,11.3,Village,,Parasitological,Parasitology (Skin Biopsy),204,97,0.475
+1758,CMR,Sud,Océan,Kribi,Tyango,3.05194,10.40012,Village,2013,Parasitological,Parasitology (Skin Biopsy),90,1,0.011
+1759,CMR,Sud,Océan,Kribi,Tyango,3.05194,10.40012,Village,2013,Clinical,Nodule Palpation,90,1,0.011
+1760,CMR,Nord-Ouest,Bui,Kumbo West,Verkovi,6.154167,10.549167,Village,,Clinical,Nodule Palpation,40,3,0.075
+1761,CMR,Est,Lom-et-Djérem,Bertoua,Viali,4.916667,13.55,Village,2004,Clinical,Nodule Palpation,36,12,0.333
+1762,CMR,Nord-Ouest,Mezam,SANTA,Wadinga,5.76423,10.27536,Village,,Clinical,Nodule Palpation,30,15,0.5
+1763,CMR,Nord,Mayo-Rey,Tchollire,Wahoula,8.55,15.083333,Village,,Clinical,Nodule Palpation,30,5,0.167
+1764,CMR,Nord,Mayo-Rey,Rey Bouba,Waimba,8.783329,14.533329,Village,2003,Clinical,Nodule Palpation,50,11,0.22
+1765,CMR,Nord,Mayo-Rey,REY BOUBA,Wakla,8.9261606,14.4238687,Village,2003,Clinical,Nodule Palpation,31,8,0.258
+1766,CMR,Adamaoua,Vina,Ngaoundere Urbain,Wakwa,7.227778,13.561111,Village,,Clinical,Nodule Palpation,30,15,0.5
+1767,CMR,Nord,Faro,Poli,Wapeou,8.538889,12.466667,Village,,Clinical,Nodule Palpation,30,6,0.2
+1768,CMR,Extrême-Nord,Logone-et-Chari,Kousseri,Waza Nati,11.4075,14.568611,Village,2003,Clinical,Nodule Palpation,45,3,0.067
+1769,CMR,Sud,Dja-et-Lobo,Zoetele,Woabete,3.346389,11.889722,Village,2005,Clinical,Nodule Palpation,41,4,0.098
+1770,CMR,Adamaoua,Mayo-Banyo,Banyo,Wogomdou,7.158333,12.005556,Village,,Clinical,Nodule Palpation,34,0,0
+1771,CMR,Est,Lom-et-Djérem,Garoua Boulai,Woumbou,5.383333,14.433333,Village,2004,Clinical,Nodule Palpation,29,8,0.276
+1772,CMR,Littoral,Moungo,Deido,Yabea,4.20277,9.7183,Village,2013,Parasitological,Parasitology (Skin Biopsy),91,2,0.022
+1773,CMR,Littoral,Moungo,Deido,Yabea,4.20277,9.7183,Village,2013,Clinical,Nodule Palpation,90,2,0.022
+1774,CMR,Littoral,Moungo,Deido,Yabea,4.203611,9.722222,Village,,Clinical,Nodule Palpation,29,3,0.103
+1775,CMR,Nord,Mayo-Rey,Tchollire,Yagoye,8.666667,15.066667,Village,,Clinical,Nodule Palpation,30,3,0.1
+1776,CMR,Centre,Haute-Sanaga,AYOS,Yamba,4.3,12.383333,Village,,Clinical,Nodule Palpation,30,17,0.567
+1777,CMR,Est,Lom-et-Djérem,Bertoua,Yanda I,4.55,13.433333,Village,,Clinical,Nodule Palpation,40,8,0.2
+1778,CMR,Nord,Mayo-Rey,Touboro,Yandea,7.239167,14.884444,Village,2003,Clinical,Nodule Palpation,50,3,0.06
+1779,CMR,Centre,Mbam-et-Kim,Ntui,Yangafok,4.816667,11.466666,Village,,Parasitological,Parasitology (Skin Biopsy),170,113,0.665
+1780,CMR,Centre,Mbam-et-Inoubou,Ndikinimeki,Yangben,4.433333,11.05,Village,,Parasitological,Parasitology (Skin Biopsy),293,87,0.297
+1781,CMR,Adamaoua,Mbéré,Djohong,Yarbang,7.016667,14.966667,Village,,Clinical,Nodule Palpation,30,15,0.5
+1782,CMR,Littoral,Moungo,Dibombari,Yassem,4.261111,9.728333,Village,2006,Clinical,Nodule Palpation,33,4,0.121
+1783,CMR,Centre,Mbam-et-Kim,Ntui,Yassem,5.333333,11.333333,Village,,Clinical,Nodule Palpation,27,14,0.519
+1784,CMR,Littoral,Moungo,Mbanga,Yato,4.39,9.6775,Village,2006,Clinical,Nodule Palpation,35,0,0
+1785,CMR,Adamaoua,Mbéré,Meiganga,Yatounou,6.46,14.38,Village,2003,Clinical,Nodule Palpation,30,6,0.2
+1786,CMR,Est,Lom-et-Djérem,Bertoua,Yebi Biom,4.958333,13.311111,Village,,Clinical,Nodule Palpation,40,31,0.775
+1787,CMR,Adamaoua,Mayo-Banyo,Bankim,Yimbere,6.32845,11.59863,Village,2012,Parasitological,Parasitology (Skin Biopsy),328,2,0.006
+1788,CMR,Adamaoua,Mayo-Banyo,Bankim,Yimbere,6.32845,11.59863,Village,,Clinical,Nodule Palpation,30,10,0.333
+1789,CMR,Sud-Ouest,Fako,Tiko,Yoke,4.20198,9.42665,Village,2012,Parasitological,Parasitology (Skin Biopsy),310,38,0.123
+1790,CMR,Est,Lom-et-Djérem,Garoua Boulai,Yoko Sire,5.816667,14.566667,Village,2004,Clinical,Nodule Palpation,36,5,0.139
+1791,CMR,Extrême-Nord,Diamaré,Meri,Zalla,10.631389,14.253889,Village,2003,Clinical,Nodule Palpation,32,0,0
+1792,CMR,Extrême-Nord,Mayo-Tsanaga,Roua,Zamay Win,10.658333,13.885833,Village,2003,Clinical,Nodule Palpation,31,1,0.032
+1793,CMR,Extrême-Nord,Mayo-Tsanaga,Mokolo,Zileng,10.720833,13.837222,Village,2003,Clinical,Nodule Palpation,48,7,0.146
+1794,CMR,Est,Haut-Nyong,Abong Mbang,Zoebefam,2.991389,13.590278,Village,2005,Clinical,Nodule Palpation,38,13,0.342
+1795,CMR,Extrême-Nord,Mayo-Tsanaga,Mokolo,Zogom,10.742778,13.974722,Village,2003,Clinical,Nodule Palpation,38,4,0.105
+1796,CMR,Sud,Dja-et-Lobo,Meyomessala,Zouameyon,3.271667,12.088889,Village,2005,Clinical,Nodule Palpation,30,8,0.267
+1797,CMR,Est,Haut-Nyong,Lomie,Zoulabot,2.715278,13.975,Village,,Clinical,Nodule Palpation,22,16,0.727
+1798,CMR,Est,Haut-Nyong,Lomie,Zoulabout,2.9,13.883333,Village,2004,Clinical,Nodule Palpation,32,18,0.563
+1799,CMR,Adamaoua,Mbéré,Meiganga,Zoulami/T,6.216667,14.3875,Village,,Clinical,Nodule Palpation,30,21,0.7
+1800,CMR,Centre,Nyong-et-Foumou,Meyomessala,Zoulou,3.516667,12.116667,Village,,Clinical,Nodule Palpation,8,0,0
+1801,CMR,Adamaoua,Mayo-Banyo,Bankim,Zouzami,6.04846,11.41005,Village,2012,Parasitological,Parasitology (Skin Biopsy),384,26,0.068
+24186,CMR,Ouest,Ndé,Bangangte,Batchingou,5.1729018,10.3819252,Village,2011,Parasitological,Parasitology (Skin Biopsy),268,44,0.164179104
+24187,CMR,Sud-Ouest,Kupe-Muanenguba,Mamfe,Ekoto,5.196265466,9.28909966,Village,2012,Parasitological,Parasitology (Skin Biopsy),125,44,0.352
+24188,CMR,Sud-Ouest,Meme,Mbonge,Kombone Village,4.58283,9.307,Village,2012,Parasitological,Parasitology (Skin Biopsy),100,10,0.1
+24189,CMR,Nord,Mayo-Rey,Touboro,Kou Man,7.6833,15.10703,Village,2010,Parasitological,Parasitology (Skin Biopsy),164,20,0.12195122
+24190,CMR,Nord,Mayo-Rey,Tchollire,Landou,8.540137,14.346869,Village,2010,Parasitological,Parasitology (Skin Biopsy),145,3,0.020689655
+24191,CMR,Littoral,Moungo,Ngambe,Mbengue Nkong,4.13366,9.59044,Village,2011,Parasitological,Parasitology (Skin Biopsy),190,96,0.505263158
+24192,CMR,Nord,Mayo-Rey,Rey Bouba,Rey Manga,8.64887,14.17203,Village,2010,Parasitological,Parasitology (Skin Biopsy),114,3,0.026315789
+24193,CMR,Sud-Ouest,Manyu,Eyumodjock,Talangaye,5.6293719,9.3118445,Village,2012,Parasitological,Parasitology (Skin Biopsy),107,15,0.140186916
