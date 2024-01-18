@@ -12,9 +12,6 @@ oncho_data <- read.csv("data-CM-Oncho-sitelevel-2013-2022.csv", stringsAsFactors
 oncho_data <- data.frame(oncho_data) %>% 
   mutate(SurveyYear = ifelse(is.na(SurveyYear), "Missing", SurveyYear), ADMIN1_NAME = str_to_title(ADMIN1_NAME), ADMIN2_NAME = str_to_title(ADMIN2_NAME))
 
-# raw_data <- jsonlite::fromJSON("https://www.kaggle.com/datasets/bricevergnou/spotify-recommendation?resource=download&select=dislike.json")
-# spotify <- as.data.frame(raw_data)
-
 ui <- dashboardPage(
   
   dashboardHeader(title = "Oncho Transmission in Cameroon"),
@@ -119,16 +116,6 @@ server <- function(input, output) {
     ggplotly(Plo)
     
   })
-  
-  # --------------------------------------------------------------
-  
-  
-  # ------------------------------------------------------------------------------
-  
-
-  #----------------------------------------------------------------------------------
-  
-  # output$spot <- DT::renderDataTable(spotify)
 }
 
 
